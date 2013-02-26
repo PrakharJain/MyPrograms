@@ -1,0 +1,32 @@
+Norfolk Street,S,0.5
+Hillsdale Boulevard,S,0.2
+US-101,H,10.2
+University Avenue,S,2.6
+Norfolk Street,S,0.5
+Hillsdale Boulevard,S,0.2
+US-101,H,10.2
+University Avenue,S,2.6
+Norfolk Street,S,0.5
+Hillsdale Boulevard,S,0.2
+Norfolk Street,S,0.5
+Hillsdale Boulevard,S,0.2
+US-101,H,10.2
+University Avenue,S,2.6
+US-101,H,10.2
+University Avenue,S,2.6
+Norfolk Street,S,0.5
+Hillsdale Boulevard,S,0.2
+Norfolk Street,S,0.5
+Hillsdale Boulevard,S,0.2
+Norfolk Street,S,0.5
+Hillsdale Boulevard,S,0.2
+Norfolk Street,S,0.5
+Hillsdale Boulevard,S,0.2
+US-101,H,10.2
+University Avenue,S,2.6
+US-101,H,10.2
+University Avenue,S,2.6
+US-101,H,10.2
+University Avenue,S,2.6
+US-101,H,10.2
+University Avenue,S,2.6
