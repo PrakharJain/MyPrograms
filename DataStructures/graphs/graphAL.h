@@ -34,6 +34,7 @@ class GraphAL
 		const vector < nodeptr >& getNeighbours(string &id);
 		const map <string , nodeptr > & getNodes();
 		void printGraph();
+		void constructGraph();
 	private:
 		map< string , nodeptr > nodes;
 };
