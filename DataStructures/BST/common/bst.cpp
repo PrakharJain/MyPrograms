@@ -8,11 +8,12 @@ Node * ConstructBST()  // creates a BST and returns the pointer to its root node
 	int data = 0;
 	cout << "Enter the elements of BST -9999 to stop" << endl;
 	cin >> data;
-	if(data != -9999)
+	if(data == -9999)
 	{
-		root = BstInsert(root , data);
+		return root;
 	}
 
+	root = BstInsert(root , data);
 	cin >> data;
 	while(data != -9999)
 	{
