@@ -13,9 +13,10 @@ struct Vertex
 {
 	string id;
 	vector< nodeptr > neighbours;
+	bool visited;
 	Vertex() 
 	{
-
+	visited = false;
 	}
 
 	Vertex(string& s):id(s)
@@ -35,6 +36,7 @@ class GraphAL
 		const map <string , nodeptr > & getNodes();
 		void printGraph();
 		void constructGraph();
+		void DFS(string &startID);
 	private:
 		map< string , nodeptr > nodes;
 };
