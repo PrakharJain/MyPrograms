@@ -33,6 +33,7 @@ Node * BstInsert(Node * root , int data) // this method returns the pointer to t
 	{
 	temp = new Node();
 		temp->key = data;
+		root = temp;
 	}
 	else 
 	{
