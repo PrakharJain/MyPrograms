@@ -13,12 +13,10 @@ class Node
 		{
 			left = NULL;
 			right = NULL;
-			//parent = NULL;
 		}
 
 		Node<T>* left;
 		Node<T>* right;
-		//Node * parent;
 		T key;
 };
 
