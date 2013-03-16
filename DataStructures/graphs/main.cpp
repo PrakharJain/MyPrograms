@@ -5,4 +5,5 @@ int main()
 GraphAL g;
 g.constructGraph();
 g.printGraph();
+g.DFS();
 }

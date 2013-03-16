@@ -30,21 +30,21 @@ void GraphAL::constructGraph()
 	string h = "h";
 	string i = "i";
 	string j = "j";
-	addEdge(a , c);
-	addEdge(a , d);
-	addEdge(a , e);
-	addEdge(b , f);
-	addEdge(b , e);
-	addEdge(c , f);
-	addEdge(c , d);
-	addEdge(e , f);
-	addEdge(g , h);
-	addEdge(g , j);
-	addEdge(j , i);
-	addEdge(i , h);
+	addUndirectedEdge(a , c);
+	addUndirectedEdge(a , d);
+	addUndirectedEdge(a , e);
+	addUndirectedEdge(b , f);
+	addUndirectedEdge(b , e);
+	addUndirectedEdge(c , f);
+	addUndirectedEdge(c , d);
+	addUndirectedEdge(e , f);
+	addUndirectedEdge(g , h);
+	addUndirectedEdge(g , j);
+	addUndirectedEdge(j , i);
+	addUndirectedEdge(i , h);
 }
 
-void GraphAL::addEdge(string& id1 , string& id2)
+void GraphAL::addUndirectedEdge(string& id1 , string& id2)
 {
 	nodeptr& node1 = nodes[id1];
 	if (node1.get() == NULL)
@@ -60,7 +60,7 @@ void GraphAL::addEdge(string& id1 , string& id2)
 	}
 	node1->neighbours.push_back(node2);
 	node2->neighbours.push_back(node1);	
-	cout << "Iserted " <<id1 << "---" << id2 << endl;
+	cout << "Inserted " <<id1 << "---" << id2 << endl;
 }
 
 
@@ -92,4 +92,29 @@ void GraphAL::printGraph()
 
 GraphAL::~GraphAL()
 {
+}
+
+
+void GraphAL::DFS()
+{
+	for(map<string, nodeptr>::iterator it = nodes.begin() ; it!=nodes.end() ; it++)
+	{
+		if(!(it->second->visited))
+		{
+			dfs(it->second);
+		} 
+	}
+}
+
+
+void GraphAL::dfs(nodeptr & nptr)
+{
+nptr->visited = true;
+vector< nodeptr >& neighbours = nptr->neighbours;
+for(vector< nodeptr >::iterator n = neighbours.begin() ; n!= neighbours.end() ; n++)
+                {
+		if(!(*n)->visited)
+               	 dfs((*n));
+                }
+cout << nptr->id << " ";
 }

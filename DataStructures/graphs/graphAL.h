@@ -14,9 +14,13 @@ struct Vertex
 	string id;
 	vector< nodeptr > neighbours;
 	bool visited;
+	int visitOrder;
+	int popOrder;
 	Vertex() 
 	{
 	visited = false;
+	visitOrder = 0;
+	popOrder = 0;
 	}
 
 	Vertex(string& s):id(s)
@@ -28,7 +32,7 @@ struct Vertex
 class GraphAL
 {
 	public:
-		void addEdge(string &id1  , string& id2);
+		void addUndirectedEdge(string &id1  , string& id2);
 		void BFS();
 		void DFS();
 		~GraphAL();
@@ -37,6 +41,7 @@ class GraphAL
 		void printGraph();
 		void constructGraph();
 		void DFS(string &startID);
+		void dfs(nodeptr & nptr);
 	private:
 		map< string , nodeptr > nodes;
 };
