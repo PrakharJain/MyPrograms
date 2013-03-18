@@ -42,6 +42,8 @@ class GraphAL
 		void constructGraph();
 		void DFS(string &startID);
 		void dfs(nodeptr & nptr);
+		void bfs(nodeptr &nptr);
+		void Reset();
 	private:
 		map< string , nodeptr > nodes;
 };

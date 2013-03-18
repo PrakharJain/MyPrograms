@@ -1,6 +1,7 @@
 #include <stdexcept>
 #include "graphAL.h"
-
+#include<queue>
+using namespace std;
 /*
 
 Graph structure
@@ -97,6 +98,8 @@ GraphAL::~GraphAL()
 
 void GraphAL::DFS()
 {
+	cout << endl << "DFS traversal : " << endl;
+	Reset();
 	for(map<string, nodeptr>::iterator it = nodes.begin() ; it!=nodes.end() ; it++)
 	{
 		if(!(it->second->visited))
@@ -117,4 +120,52 @@ for(vector< nodeptr >::iterator n = neighbours.begin() ; n!= neighbours.end() ; 
                	 dfs((*n));
                 }
 cout << nptr->id << " ";
+}
+
+
+void GraphAL::Reset()
+{
+	for(map<string, nodeptr>::iterator it = nodes.begin() ; it!=nodes.end() ; it++)
+	{
+		it->second->visited = false;
+		it->second->visitOrder = 0;
+        	it->second->popOrder = 0;
+	}
+}
+
+
+void GraphAL::BFS()
+{
+	cout << endl << "BFS traversal " << endl;
+        Reset();
+        for(map<string, nodeptr>::iterator it = nodes.begin() ; it!=nodes.end() ; it++)
+        {
+                if(!(it->second->visited))
+                {
+                        bfs(it->second);
+                }
+        }
+}
+
+void GraphAL::bfs(nodeptr &nptr)
+{
+	nptr->visited = true;
+	queue<nodeptr> q;
+	q.push(nptr);
+
+	while(!q.empty())
+	{
+		nodeptr &ptr = q.front();
+		q.pop();
+		vector< nodeptr >& neighbours = ptr->neighbours;
+		for(vector< nodeptr >::iterator n = neighbours.begin() ; n!= neighbours.end() ; n++)
+		{
+			if(!(*n)->visited)
+			{
+				(*n)->visited = true;
+				q.push((*n));
+			}
+		}
+		cout << ptr->id << " ";
+	}
 }
