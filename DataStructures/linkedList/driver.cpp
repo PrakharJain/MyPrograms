@@ -3,11 +3,8 @@
 #include <iostream>
 using namespace std;
 
-
-int main()
+void nthLast(SingleLinkedList*& list)
 {
-	SingleLinkedList * list = CreateSingleLinkedList();
-	list->Print();
 	cout << "Put in the value of n " << endl;
 	int n;
 	cin >> n;
@@ -23,3 +20,21 @@ int main()
 	}
 
 }
+
+void ReverseLinkedList(SingleLinkedList*& list)
+{
+list->Reverse();
+cout << "Reversed List is " << endl;
+list->Print();
+}
+
+int main()
+{
+SingleLinkedList * list = CreateSingleLinkedList();
+cout << "Original List is " << endl;
+	list->Print();
+//nthLast(list);
+ReverseLinkedList(list);
+}
+
+

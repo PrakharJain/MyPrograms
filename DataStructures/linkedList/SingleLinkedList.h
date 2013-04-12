@@ -14,6 +14,7 @@ class SingleLinkedList
 		void Print();
 		SingleLinkedList();
 		~SingleLinkedList();
+		void Reverse();
 	private:
 
 		void RemoveDuplicates(Node * head);

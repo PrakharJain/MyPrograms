@@ -146,4 +146,20 @@ Node * SingleLinkedList::findNthLastElement(int n)
 	return temp2;
 }
 
+void SingleLinkedList::Reverse()
+{
+	if(head == NULL || head->next == NULL)
+		return;
+	Node * current =  head->next;
+	head->next = NULL;
+	Node * prev = head;
 
+	while(current != NULL)
+	{
+		Node * next = current->next;
+		current->next = prev;
+		prev = current;
+		current = next;
+	}
+	head = prev;
+}
