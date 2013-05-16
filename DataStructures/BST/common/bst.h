@@ -26,3 +26,8 @@ Node * ConstructBST();  // creates a BST and returns the pointer to its root nod
 Node * BstInsert(Node * root , int data); // this method returns the pointer to the newly constructed Node
 Node * BstInsertRecursive(Node * n , int data);
 Node * Search(Node * root , int searchKey);
+Node * MinimumNode( Node * root);
+Node * MaximumNode(Node * root);
+
+Node * Successor( Node * root);
+void Delete(Node*&root ,  Node * n);
