@@ -1,0 +1,6 @@
+
+
+
+id('asr-preview-box-books-id')/x:div[2]/x:div/x:div/x:div[1]/x:div/x:div[2]/x:span[2]
+//x:div[@class='line all_search_results']/x:div[1]/x:div[2]//x:a[@title]        xpath to fetch the names of all the books
+

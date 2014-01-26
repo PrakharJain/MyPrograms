@@ -1,0 +1,7 @@
+<Product>
+	<title>//div[@class='line all_search_results']/div[1]/div[2]//a[@title]</title>
+	<original_price> </original_price>
+	<selling_price> </selling_price>
+	<product_category> </product_category>
+	<product_detail_url> </product_detail_url>
+</Product>

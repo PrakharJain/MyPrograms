@@ -1,0 +1,2712 @@
+<!DOCTYPE html>
+
+
+<html onclick="window.numPreClicks=(window.numPreClicks+1)||1;window.lastPreClick=event.target">
+    <head>
+        <!-- Flite - 1.42.17 - pwbflite09 -  - Sat Jan 05 15:24:19 EST 2013 - command=search.results.productsearch - test_cell= -->
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <title>BARNES & NOBLE |  All Products</title>
+        <meta name="keywords" content="Barnes & Noble.com -NOOK Books Search: "/>
+    
+        <meta name="description" content="FIND  on Barnes & Noble. Free 3-Day shipping on $25 orders!"/>
+    <link rel="canonical" href="http://www.barnesandnoble.com/s/" /><link rel="icon" type="image/x-icon" href="http://img3.imagesbn.com/resources/images/favicon.ico" />
+            <link href="http://img3.imagesbn.com/resources?cb=1.42.17&amp;type=CSS&amp;rz=WlYBAm4FrBYmcj0vY3NzLW1pbi9jb3JlL2ZvbnRzLiAS4AgZBHJlc2V04AwZA2dyaWTgDBgDZm9ybeAHGAx3aWRnZXRzL2xheW91IAcQMi1jb2x1bW4tc2lkZWJhci2AGOAHNmCcQATgBxjATwZtYXN0aGVh4AiIwB8Gd3JhcHBlcuAPPg5zaGFyZWQvdXNlcmxpbmvhCALARsAnCXBzZWxscHJvbW_gFlEKcXVpY2tzZWFyY2jgFikJc3R5bGVkLWlucCEX4AcrB3RhZ3MvY3cvIHIJZHVjdC9mYW5jeSErAmJlbOAHKuAGqgJjYXLhCE3gBiIXbmF2aWdhdGlvbi1ob3JpemRyb3Bkb3du4BBZYM4EL2ZpbHThGFELZ29vZ2xlLXRleHQt4RGdoVYLYWR2ZXJ0aXNlbWVu4BG0gH3gIysGc3VtbWFyeeAQz4H8AmxpcyKQA3NvcnQikwRudHJvbOEIhuEGOIAxBHBhZ2lugT7gGDeAuwd2aWV3LXRvZ0EZ4Bgy4AOcQHDgADEh_kND4AfVYirCJ2BdBWlidXRvcuAIzOAEKANpbWFn4whcYCFilyAFB2Fycy1zbWFs4ghwYCUBaW4gIQRudC1wdSLpAmFzZeAIEOAMpoBbAG8h9SDL4AwhwMjgB18DLWVuaCMDAGXjCPBgjcA1A2Rpc3AgWQItdGkigwJpdGXkCI7gBC1hAwUtd2ViLXIkSQJhYmzgCLThAP-BxyUTAXVs4wms4AYlBGNhdGVnI1cAZcGBBWh0dHA6LyBuAmcxLmBzAXNiI2sBb20gtgJlc28hQABlI-sBc3MlPwBvI2AHMTAyNC5jc3M" type="text/css" rel="stylesheet"/>
+        
+            <style>
+                .horiz-navigation #horiz-navigation-1-store-1 {width: 50px;}
+.horiz-navigation #horiz-navigation-1-store-2 {width: 90px;}
+.horiz-navigation #horiz-navigation-1-store-3 {width: 60px;}
+.horiz-navigation #horiz-navigation-1-store-4 {width: 76px;}
+.horiz-navigation #horiz-navigation-1-store-5 {width: 81px;}
+.horiz-navigation #horiz-navigation-1-store-6 {width: 49px;}
+.horiz-navigation #horiz-navigation-1-store-7 {width: 41px;}
+.horiz-navigation #horiz-navigation-1-store-8 {width: 97px;}
+.horiz-navigation #horiz-navigation-1-store-9 {width: 96px;}
+.horiz-navigation #horiz-navigation-1-store-10 {width: 90px;}
+.horiz-navigation #horiz-navigation-1-store-11 {width: 51px;}
+.horiz-navigation #horiz-navigation-1-store-12 {width: 75px;}
+.horiz-navigation #horiz-navigation-1-store-13 {width: 102px;}
+@media only screen and (min-width: 1212px) {
+.horiz-navigation #horiz-navigation-1-store-1 {width: 60px;}
+.horiz-navigation #horiz-navigation-1-store-2 {width: 100px;}
+.horiz-navigation #horiz-navigation-1-store-3 {width: 70px;}
+.horiz-navigation #horiz-navigation-1-store-4 {width: 86px;}
+.horiz-navigation #horiz-navigation-1-store-5 {width: 91px;}
+.horiz-navigation #horiz-navigation-1-store-6 {width: 59px;}
+.horiz-navigation #horiz-navigation-1-store-7 {width: 51px;}
+.horiz-navigation #horiz-navigation-1-store-8 {width: 107px;}
+.horiz-navigation #horiz-navigation-1-store-9 {width: 106px;}
+.horiz-navigation #horiz-navigation-1-store-10 {width: 100px;}
+.horiz-navigation #horiz-navigation-1-store-11 {width: 61px;}
+.horiz-navigation #horiz-navigation-1-store-12 {width: 85px;}
+.horiz-navigation #horiz-navigation-1-store-13 {width: 114px;}
+}/*/mediaquery*/
+.advertisement-layout .headerText {
+font-size: 10px;
+line-height: 10px;
+text-align: center;
+text-transform: uppercase;
+}
+.pod3-fbbn, .pod3-fbnook, .pod3-twbn, .pod3-twnook {
+background-image: url("http://img1.imagesbn.com/pImages/resources/gateway/2011/footer/footer_social_sprite.png");
+}
+#bnf-pod-div {
+background-image: url("http://img1.imagesbn.com/pImages/resources/gateway/2011/footer/footer_dividingline.gif");
+}
+#bnf-footlight-ctr {
+background-image: url("http://img1.imagesbn.com/pImages/resources/gateway/2011/footer/footer_design.gif");
+}
+            </style>
+        
+            <script src="http://img3.imagesbn.com/resources?cb=1.42.17&amp;type=JS&amp;rz=WlYBAIIAyh8mcj0vanMtbWluL2NvcmUvdXRpbGl0eS9kb2N3cml0ZQgtZGVmZXIuanOAKBAvdmVuZG9yL2h0bWw1c2hpbYAZBnx5fHl1aS8gA0BJgBPgBFYMbG9hZGVyLWF1dG9za-ATIQljb25kaXRpb25z4BFFAXJsoBwCYm4tQHIgMwJmaWc" type="text/javascript"></script>
+        <script type="text/javascript">BN_YUI.use('input-clear', 'shared-quicksearch', 'event-base', 'node-base', function(Y) {ex(function() {
+Y.on('contentready', function() {
+var form = this;
+var quicksearch = new Y.Shared.QuickSearch({
+form: form,
+input: form.one('input.search-input').plug(Y.Plugin.InputClear),
+plugins: [{
+fn: Y.Shared.QuickSearchPlugins.AutoComplete, cfg: {
+container: form.one('.inner-container')
+}
+}]
+});
+}, '#quick-search-1 form');
+});})</script>
+    </head>
+    <body class="">
+        <header class="box">
+    <a name="masthead-1" class="masthead-anchor"></a>
+            
+
+            <div id="masthead-1" data-bn-widget-name="masthead" data-bntrack-pageaware="true" data-bntrack="Global_Nav" class="masthead box regular masthead" data-bntrack-view="Master Header" data-bntrack-root="true"><a name="user-links-1" class="user-links-anchor"></a>
+            
+
+            <div id="user-links-1" data-bn-widget-name="user-links" class="user-links" data-bntrack-view="User Links Bar"><div class="user-links-wrapper" data-bntrack="Header">
+        <div class="user-links-content centered-width c15-15col c17-17col">
+            <ul>
+                <li class="skip-to-main no-divider"><a href="#mainContent" tabindex="1">Skip to Main Content</a></li>
+                <li class="user-welcome no-divider"><a name="account-welcome-1" class="account-welcome-anchor"></a>
+            
+
+            <span id="account-welcome-1" data-bn-widget-name="account-welcome" class="account-welcome"><a href="https://www.barnesandnoble.com/signin"  target="_blank" data-bntrack="myAccountSignIn" class="sign-in">Sign in</a><a name="signin-actions-1" class="signin-actions-anchor"></a>
+            
+
+            <div id="signin-actions-1" data-bn-widget-name="signin-actions" class="signin-actions"></div></span></li>
+                <li class="user-actions"><span class="line-cover"></span>
+                    <a href="http://cart4.barnesandnoble.com/account/request.aspx"  data-bn-rel="http://cart4.barnesandnoble.com/account/request.aspx?stage=mainStage" data-bntrack="myAccount">My Account</a>
+                    <ul>
+                        
+                            <li>
+                               <a href="http://cart4.barnesandnoble.com/account/request.aspx?stage=mainStage"  data-bntrack="myAccount_AccountSettings">Account Settings</a>
+                            </li>
+                        
+                            <li>
+                               <a href="http://my.barnesandnoble.com/communityportal/WishList.aspx"  data-bntrack="myAccount_WishList">Wish List</a>
+                            </li>
+                        
+                    </ul>
+                </li>
+                
+                    <li><a href="http://cart4.barnesandnoble.com/account/request.aspx?stage=orderStatus"  data-bntrack="OrderStatus">Order Status</a></li>
+                
+                    <li><a href="http://mynook.barnesandnoble.com/home.html"  data-bntrack="MyNOOK">My NOOK</a></li>
+                
+                    <li><a href="http://store-locator.barnesandnoble.com/"  data-bntrack="Stores&Events">Stores & Events</a></li>
+                
+                    <li><a href="http://www.barnesandnoble.com/help/help.asp"  data-bntrack="Help">Help</a></li>
+                
+            </ul>
+        </div>
+    </div></div>
+    <div class="wide centered-width box logo-container">
+
+        <a href="http://www.barnesandnoble.com/"  data-bntrack="logo" class="logo">
+            <img src="http://img1.imagesbn.com/gresources/cleardot.gif" alt="Barnes & Noble bn.com"/>
+        </a><a name="borders-welcome-promo-1" class="borders-welcome-promo-anchor"></a>
+            
+
+            <div id="borders-welcome-promo-1" data-bn-widget-name="borders-welcome-promo" class="borders-welcome-promo"><a name="upsell-promo-1" class="upsell-promo-anchor"></a>
+            
+
+            <ul id="upsell-promo-1" data-bn-widget-name="upsell-promo" data-bntrack="Promo Rotation Ads" class="box upsell-promo" data-bntrack-view="Promo Rotation Ads"><li class="milo">
+            <a href="http://www.barnesandnoble.com/u/Membership-Join/379002828"  data-bntrack="promo1-%3CEM%3EFREE+Express+Shipping%3C%2FEM%3E+with+Membership"><EM>FREE Express Shipping</EM> with Membership</a>
+        </li>
+    
+        <li class="milo">
+            <a href="http://www.barnesandnoble.com/u/After-Holiday-Bargain-Clearance-Sale/379003385"  data-bntrack="promo2-After-Holiday+Sale%3A%3CEM%3E+Save+Up+to+85%25+%3C%2FEM%3E">After-Holiday Sale:<EM> Save Up to 85% </EM></a>
+        </li>
+    
+        <li class="milo">
+            <a href="http://www.barnesandnoble.com/u/textbooks-college-textbooks/379002366/"  data-bntrack="promo3-Textbooks%3A+%3CEM%3ESave+Up+to+90%25%3C%2FEM%3E">Textbooks: <EM>Save Up to 90%</EM></a>
+        </li>
+    
+        <li class="milo">
+            <a href="http://www.barnesandnoble.com/u/Fresh-Start-for-New-Years-Books-Gifts/379003399"  data-bntrack="promo4-%3CEM%3EFresh+Starts%3A%3C%2FEM%3E+Make+Your+Resolutions+Stick"><EM>Fresh Starts:</EM> Make Your Resolutions Stick</a>
+        </li></ul></div>
+        <div class="masthead-bottom box">
+            <a name="quick-search-1" class="quick-search-anchor"></a>
+            
+
+            <div id="quick-search-1" data-bn-widget-name="quick-search" class="c15-11col c17-13col box quick-search" data-bntrack-view="Quick Search Bar"><form name="SEARCH.RESULTS.PRODUCTSEARCH" action="http://www.barnesandnoble.com/s"  data-bntrack="Quick Search Form" class="box" method="get">
+
+        <button class="branded" type="submit" tabindex="3">Search</button>
+        <div class="outer-container">
+            <input type="submit" class="secondary-submit" tabindex="-1"/>
+            <div class="inner-container milo">
+                
+    <div class="styledinput styledselect-display ">
+        <select name="store" id="quick-search-1-category" tabindex="2"
+    value="EBOOK"
+    class="milo">
+            
+
+
+
+
+<option value="allproducts"  class="milo">All Products</option>
+
+
+
+
+
+<option value="book"  class="milo">Books</option>
+
+
+
+
+
+<option value="nookstore"  class="milo">NOOK Store</option>
+
+
+
+
+
+<option value="ebook" selected class="milo">NOOK Books</option>
+
+
+
+
+
+<option value="textbook"  class="milo">Textbooks</option>
+
+
+
+
+
+<option value="dvd"  class="milo">Movies & TV</option>
+
+
+
+
+
+<option value="music"  class="milo">Music</option>
+
+
+
+
+
+<option value="kids"  class="milo">Kids' Books</option>
+
+
+
+
+
+<option value="oop"  class="milo">Marketplace</option>
+
+
+
+
+
+<option value="rare"  class="milo">Rare Books</option>
+
+
+
+
+
+<option value="periodicals"  class="milo">Newsstand</option>
+
+
+
+
+
+<option value="catalog"  class="milo">NOOK Catalogs</option>
+
+
+
+
+
+<option value="calendar"  class="milo">Calendars</option>
+
+
+
+
+
+<option value="gift"  class="milo">Home & Gifts</option>
+
+
+
+
+
+<option value="toy"  class="milo">Toys & Games</option>
+
+        </select>
+    </div>
+    <!--[if IE 7]><script>BN_YUI.use('node', 'styled-inputs', function(Y) { Y.one('#quick-search-1-category').plug(Y.StyledInputs.Plugin.Select); });</script><![endif]-->
+
+                <div class="search-input-wrapper milo">
+                    
+    <div class="text-field-wrapper">
+        <label class="hidden" for="keyword">Search Over 30 Million Products</label>
+        <input name="keyword" id="keyword"  value="" tabindex="1"
+    class="search-input milo"
+    autocomplete="off" />
+    </div>
+
+                </div>
+              </div>
+         </div>
+    </form></div><a name="shopping-cart-1" class="shopping-cart-anchor"></a>
+            
+
+            <div id="shopping-cart-1" data-bn-widget-name="shopping-cart" class="c15-4col shopping-cart"><a href="#"  id="cart" data-bn-rel="http://cart2.barnesandnoble.com/shop/op.asp?step=fullCart&uiaction=editCart" data-bntrack="cart" class="link" rel="nofollow">
+        <div class="shopping-cart-box">
+            <div id="shopping-cart-content-1" data-bn-widget-name="shopping-cart-content" class="shopping-cart-content ajax"><div class="shopping-cart-header">
+       <ul>
+           <li class="shopping-bag">
+               <span class="text">Shopping Bag
+                    <em class="items">
+                       ( <span class="zeroQty">
+                       0
+                       items</span>
+                       )
+                    </em>
+               </span>
+           </li>
+           <li class="shipping-message">
+               
+                           Spend $25, <span>Get FREE SHIPPING</span>
+                           
+            </li>
+       </ul>
+   </div></div>
+        </div>
+    </a></div>
+        </div>
+        <div class="masthead-bar box">
+            <a name="horiz-navigation-1" class="horiz-navigation-anchor"></a>
+            
+
+            <nav id="horiz-navigation-1" data-bn-widget-name="horiz-navigation" class="horiz-navigation"><ul class="c15-15col c17-17col">
+        
+            <li id="horiz-navigation-1-store-1" class=" " data-bntrack="Books-1" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/books-bestselling-books/379003057/"  data-bntrack="Books" class="milo  ">Books</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-2" class=" " data-bntrack="NOOK+Books-2" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/NOOK-Book-eBook-store/379003094"  data-bntrack="NOOK+Books" class="milo  ">NOOK Books</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-3" class=" " data-bntrack="NOOK-3" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/nook/index.asp"  data-bntrack="NOOK" class="milo  nooktab">NOOK</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-4" class=" " data-bntrack="Textbooks-4" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/textbooks-college-textbooks/379002366/"  data-bntrack="Textbooks" class="milo  ">Textbooks</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-5" class=" " data-bntrack="Newsstand-5" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/newsstand-print-digital-news/379003354"  data-bntrack="Newsstand" class="milo  ">Newsstand</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-6" class=" " data-bntrack="Teens-6" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/teens-teen-books/379003056/"  data-bntrack="Teens" class="milo  ">Teens</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-7" class=" " data-bntrack="Kids-7" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/childrens-books-kids-books/379003144"  data-bntrack="Kids" class="milo  ">Kids</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-8" class=" " data-bntrack="Toys+%26+Games-8" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/Learning-Toys-Learning-Games/379003165/"  data-bntrack="Toys+%26+Games" class="milo  ">Toys & Games</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-9" class=" " data-bntrack="Home+%26+Gifts-9" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/home-gifts/379003110/"  data-bntrack="Home+%26+Gifts" class="milo  ">Home & Gifts</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-10" class=" " data-bntrack="Movies+%26+TV-10" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/DVD-Movies-Box-Sets-TV-Show-Blu-ray-Discs/379003201"  data-bntrack="Movies+%26+TV" class="milo  ">Movies & TV</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-11" class=" " data-bntrack="Music-11" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/Music-CDs-New-Releases-Reviews-Box-Sets/379003222"  data-bntrack="Music" class="milo  ">Music</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-12" class=" " data-bntrack="Gift+Cards-12" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/gift-card/index.asp"  data-bntrack="Gift+Cards" class="milo  ">Gift Cards</a>
+            </li>
+        
+            <li id="horiz-navigation-1-store-13" class="last-child " data-bntrack="Deals+%26+Offers+-13" data-bntrack-event="view">
+                <a href="http://www.barnesandnoble.com/u/best-deals/379003431"  data-bntrack="Deals+%26+Offers+" class="milo  ">Deals & Offers </a>
+            </li>
+        
+    </ul></nav>
+        </div>
+    </div></div>
+</header>
+
+<div class="two-column-sidebar-content-container">
+
+<div class="page-content-wrapper box centered-width l2r trim">
+    <aside class="page-sidebar column  shadowed">
+        <a name="search-filter-1" class="search-filter-anchor"></a>
+            
+
+            <div id="search-filter-1" data-bn-widget-name="search-filter" class="search-filter"><div class="wrapper" data-bntrack="Refinements" data-bntrack-root="true" data-bntrack-pageaware="true">
+            
+                <ul class="filter-set">
+                    
+                        <li class="filter" data-bntrack="In+NOOK+Books">
+                            <div class="filter-name milo">In NOOK Books</div>
+                            <div class="filter-hider">
+                                <ul class="filter-value-set">
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2323"  title="Fiction & Literature" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2323&store=EBOOK" data-bntrack="Fiction & Literature" class="filter-value-a" rel="">Fiction & Literature</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2565"  title="Romance" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2565&store=EBOOK" data-bntrack="Romance" class="filter-value-a" rel="">Romance</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2425"  title="Mystery & Crime" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2425&store=EBOOK" data-bntrack="Mystery & Crime" class="filter-value-a" rel="">Mystery & Crime</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2588"  title="Science Fiction, Fantasy & Horror" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2588&store=EBOOK" data-bntrack="Science Fiction, Fantasy & Horror" class="filter-value-a" rel="">Science Fiction, Fantasy & Horror</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5594"  title="Teens" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5594&store=EBOOK" data-bntrack="Teens" class="filter-value-a" rel="">Teens</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=3416"  title="Biography & Memoir" data-bn-rel="http://www.barnesandnoble.com/s/?dref=3416&store=EBOOK" data-bntrack="Biography & Memoir" class="filter-value-a" rel="">Biography & Memoir</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2556"  title="Religion & Inspiration" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2556&store=EBOOK" data-bntrack="Religion & Inspiration" class="filter-value-a" rel="">Religion & Inspiration</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=3436"  title="Business & Personal Finance" data-bn-rel="http://www.barnesandnoble.com/s/?dref=3436&store=EBOOK" data-bntrack="Business & Personal Finance" class="filter-value-a" rel="">Business & Personal Finance</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2214"  title="Kids" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2214&store=EBOOK" data-bntrack="Kids" class="filter-value-a" rel="">Kids</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5481"  title="Comics & Graphic Novels" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5481&store=EBOOK" data-bntrack="Comics & Graphic Novels" class="filter-value-a" rel="">Comics & Graphic Novels</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5094"  title="Art, Architecture & Photography" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5094&store=EBOOK" data-bntrack="Art, Architecture & Photography" class="filter-value-a" rel="">Art, Architecture & Photography</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=4147"  title="Computers" data-bn-rel="http://www.barnesandnoble.com/s/?dref=4147&store=EBOOK" data-bntrack="Computers" class="filter-value-a" rel="">Computers</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2262"  title="Cooking, Food & Wine" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2262&store=EBOOK" data-bntrack="Cooking, Food & Wine" class="filter-value-a" rel="">Cooking, Food & Wine</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5480"  title="Crafts, Hobbies & Antiques" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5480&store=EBOOK" data-bntrack="Crafts, Hobbies & Antiques" class="filter-value-a" rel="">Crafts, Hobbies & Antiques</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2301"  title="Diet & Health" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2301&store=EBOOK" data-bntrack="Diet & Health" class="filter-value-a" rel="">Diet & Health</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=6455"  title="Entertainment" data-bn-rel="http://www.barnesandnoble.com/s/?dref=6455&store=EBOOK" data-bntrack="Entertainment" class="filter-value-a" rel="">Entertainment</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=3473"  title="Historical Fiction" data-bn-rel="http://www.barnesandnoble.com/s/?dref=3473&store=EBOOK" data-bntrack="Historical Fiction" class="filter-value-a" rel="">Historical Fiction</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2358"  title="History" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2358&store=EBOOK" data-bntrack="History" class="filter-value-a" rel="">History</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5529"  title="Home, Garden & Pets" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5529&store=EBOOK" data-bntrack="Home, Garden & Pets" class="filter-value-a" rel="">Home, Garden & Pets</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5535"  title="Humor" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5535&store=EBOOK" data-bntrack="Humor" class="filter-value-a" rel="">Humor</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=6468"  title="Military History" data-bn-rel="http://www.barnesandnoble.com/s/?dref=6468&store=EBOOK" data-bntrack="Military History" class="filter-value-a" rel="">Military History</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2757"  title="New Age, Spirituality & Alternative Beliefs" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2757&store=EBOOK" data-bntrack="New Age, Spirituality & Alternative Beliefs" class="filter-value-a" rel="">New Age, Spirituality & Alternative Beliefs</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=3523"  title="Nonfiction" data-bn-rel="http://www.barnesandnoble.com/s/?dref=3523&store=EBOOK" data-bntrack="Nonfiction" class="filter-value-a" rel="">Nonfiction</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=4679"  title="NOOK Books en español" data-bn-rel="http://www.barnesandnoble.com/s/?dref=4679&store=EBOOK" data-bntrack="NOOK Books en español" class="filter-value-a" rel="">NOOK Books en español</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5563"  title="Parenting & Family" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5563&store=EBOOK" data-bntrack="Parenting & Family" class="filter-value-a" rel="">Parenting & Family</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5571"  title="Philosophy" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5571&store=EBOOK" data-bntrack="Philosophy" class="filter-value-a" rel="">Philosophy</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5580"  title="Poetry" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5580&store=EBOOK" data-bntrack="Poetry" class="filter-value-a" rel="">Poetry</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2488"  title="Politics & Current Events" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2488&store=EBOOK" data-bntrack="Politics & Current Events" class="filter-value-a" rel="">Politics & Current Events</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=6491"  title="Professional & Education" data-bn-rel="http://www.barnesandnoble.com/s/?dref=6491&store=EBOOK" data-bntrack="Professional & Education" class="filter-value-a" rel="">Professional & Education</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2513"  title="Reference" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2513&store=EBOOK" data-bntrack="Reference" class="filter-value-a" rel="">Reference</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2571"  title="Science & Nature" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2571&store=EBOOK" data-bntrack="Science & Nature" class="filter-value-a" rel="">Science & Nature</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2615"  title="Self Help" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2615&store=EBOOK" data-bntrack="Self Help" class="filter-value-a" rel="">Self Help</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=6469"  title="Social Sciences" data-bn-rel="http://www.barnesandnoble.com/s/?dref=6469&store=EBOOK" data-bntrack="Social Sciences" class="filter-value-a" rel="">Social Sciences</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=2660"  title="Sports & Adventure" data-bn-rel="http://www.barnesandnoble.com/s/?dref=2660&store=EBOOK" data-bntrack="Sports & Adventure" class="filter-value-a" rel="">Sports & Adventure</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=3600"  title="Thrillers" data-bn-rel="http://www.barnesandnoble.com/s/?dref=3600&store=EBOOK" data-bntrack="Thrillers" class="filter-value-a" rel="">Thrillers</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5684"  title="Travel" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5684&store=EBOOK" data-bntrack="Travel" class="filter-value-a" rel="">Travel</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="http://www.barnesandnoble.com/s/?dref=5685"  title="Westerns" data-bn-rel="http://www.barnesandnoble.com/s/?dref=5685&store=EBOOK" data-bntrack="Westerns" class="filter-value-a" rel="">Westerns</a>
+                                        </li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                        <li class="filter" data-bntrack="Price+Range">
+                            <div class="filter-name milo">Price Range</div>
+                            <div class="filter-hider">
+                                <ul class="filter-value-set">
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="Discounted" data-bn-rel="http://www.barnesandnoble.com/s/?aref=1533&store=EBOOK" data-bntrack="Discounted" class="filter-value-a" rel="nofollow">Discounted</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="Under $10" data-bn-rel="http://www.barnesandnoble.com/s/?aref=1534&store=EBOOK" data-bntrack="Under $10" class="filter-value-a" rel="nofollow">Under $10</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="$10 - $25" data-bn-rel="http://www.barnesandnoble.com/s/?aref=1535&store=EBOOK" data-bntrack="$10 - $25" class="filter-value-a" rel="nofollow">$10 - $25</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="$25 - $50" data-bn-rel="http://www.barnesandnoble.com/s/?aref=1536&store=EBOOK" data-bntrack="$25 - $50" class="filter-value-a" rel="nofollow">$25 - $50</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="Over $50" data-bn-rel="http://www.barnesandnoble.com/s/?aref=1537&store=EBOOK" data-bntrack="Over $50" class="filter-value-a" rel="nofollow">Over $50</a>
+                                        </li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                        <li class="filter" data-bntrack="Format">
+                            <div class="filter-name milo">Format</div>
+                            <div class="filter-hider">
+                                <ul class="filter-value-set">
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="eMagazine" data-bn-rel="http://www.barnesandnoble.com/s/?aref=3155&store=EBOOK" data-bntrack="eMagazine" class="filter-value-a" rel="nofollow">eMagazine</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="eNewspaper" data-bn-rel="http://www.barnesandnoble.com/s/?aref=3156&store=EBOOK" data-bntrack="eNewspaper" class="filter-value-a" rel="nofollow">eNewspaper</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="NOOK Children's Books" data-bn-rel="http://www.barnesandnoble.com/s/?aref=4441&store=EBOOK" data-bntrack="NOOK Children's Books" class="filter-value-a" rel="nofollow">NOOK Children's Books</a>
+                                        </li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                        <li class="filter" data-bntrack="Age+Groups">
+                            <div class="filter-name milo">Age Groups</div>
+                            <div class="filter-hider">
+                                <ul class="filter-value-set">
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="Ages 0-2" data-bn-rel="http://www.barnesandnoble.com/s/?aref=1548&store=EBOOK" data-bntrack="Ages 0-2" class="filter-value-a" rel="nofollow">Ages 0-2</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="Ages 3-5" data-bn-rel="http://www.barnesandnoble.com/s/?aref=1549&store=EBOOK" data-bntrack="Ages 3-5" class="filter-value-a" rel="nofollow">Ages 3-5</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="Ages 6-8" data-bn-rel="http://www.barnesandnoble.com/s/?aref=3146&store=EBOOK" data-bntrack="Ages 6-8" class="filter-value-a" rel="nofollow">Ages 6-8</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="Ages 9-12" data-bn-rel="http://www.barnesandnoble.com/s/?aref=1550&store=EBOOK" data-bntrack="Ages 9-12" class="filter-value-a" rel="nofollow">Ages 9-12</a>
+                                        </li>
+                                    
+                                        <li class="filter-value">
+                                            <a href="#"  title="Teens" data-bn-rel="http://www.barnesandnoble.com/s/?aref=1551&store=EBOOK" data-bntrack="Teens" class="filter-value-a" rel="nofollow">Teens</a>
+                                        </li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                </ul>
+            
+
+        </div></div><a name="google-text-ad-1" class="google-text-ad-anchor"></a>
+            
+
+            <div id="google-text-ad-1" data-bn-widget-name="google-text-ad" class="google-text-ad"></div><a name="search-advertisement-1" class="search-advertisement-anchor"></a>
+            
+
+            <div id="search-advertisement-1" data-bn-widget-name="search-advertisement" class="advertisement-layout search-advertisement"><div class="headerText">Advertising</div>
+    <div class="ad"><a name="adsense-wide-skyscraper-1" class="adsense-wide-skyscraper-anchor"></a>
+            
+
+            <div id="adsense-wide-skyscraper-1" data-bn-widget-name="adsense-wide-skyscraper" class="wide-160 tall-600  adsense adsense-wide-skyscraper"><!-- this is where the ad goes --></div></div></div>
+    </aside>
+
+    
+
+    <section class="page-content column  c15-12col c17-14col ">
+        <a name="search-summary-1" class="search-summary-anchor"></a>
+            
+
+            <div id="search-summary-1" data-bn-widget-name="search-summary" class="search-summary"><div class="copy">
+            Showing
+            
+                <strong>1 &#8211; 30</strong> of
+            
+            <strong>3104196</strong> results.
+            
+        </div></div><a name="search-controls-ab-1" class="search-controls-ab-anchor"></a>
+            
+
+            <div id="search-controls-ab-1" data-bn-widget-name="search-controls-ab" data-bntrack-pageaware="true" data-bntrack="Search Controls" class="list-controls-layout box search-controls-ab" data-bntrack-root="true"><a name="sort-controls-1" class="sort-controls-anchor"></a>
+            
+
+            <div id="sort-controls-1" data-bn-widget-name="sort-controls" class="sort-controls box sort-controls"><form name="null" action="http://www.barnesandnoble.com/s/" >
+
+        <span class="option-name">Sort by:</span>
+        <span class="option-selector">
+            
+    <div class="styledinput styledselect-display ">
+        <select name="sort" id="sort" data-bntrack="Sort By"
+    class="sort">
+            
+
+
+
+
+<option value="R"  data-bntrack="Top+Matches">Top Matches</option>
+
+
+
+
+
+<option value="SA"  data-bntrack="Best+Selling">Best Selling</option>
+
+
+
+
+
+<option value="PA"  data-bntrack="Price+-+Low+to+High">Price - Low to High</option>
+
+
+
+
+
+<option value="PD"  data-bntrack="Price+-+High+to+Low">Price - High to Low</option>
+
+
+
+
+
+<option value="TA"  data-bntrack="Title+-+A+to+Z">Title - A to Z</option>
+
+
+
+
+
+<option value="TD"  data-bntrack="Title+-+Z+to+A">Title - Z to A</option>
+
+
+
+
+
+<option value="DD"  data-bntrack="Newest+to+Oldest">Newest to Oldest</option>
+
+
+
+
+
+<option value="DA"  data-bntrack="Oldest+to+Newest">Oldest to Newest</option>
+
+        </select>
+    </div>
+    <!--[if IE 7]><script>BN_YUI.use('node', 'styled-inputs', function(Y) { Y.one('#sort').plug(Y.StyledInputs.Plugin.Select); });</script><![endif]-->
+
+        </span>
+        <span class="option-name">View:</span>
+        <span class="option-selector">
+            
+    <div class="styledinput styledselect-display ">
+        <select name="size" id="size" data-bntrack="View"
+    class="size">
+            
+
+
+
+
+<option value="30"  data-bntrack="30">30</option>
+
+
+
+
+
+<option value="90"  data-bntrack="90">90</option>
+
+        </select>
+    </div>
+    <!--[if IE 7]><script>BN_YUI.use('node', 'styled-inputs', function(Y) { Y.one('#size').plug(Y.StyledInputs.Plugin.Select); });</script><![endif]-->
+
+        </span>
+        <span class="option-selector hide-if-js">
+            <input type="submit" value="Go" />
+        </span>
+       <input type="hidden" name="store" value="ebook" /></form></div><a name="pagination-controls-1" class="pagination-controls-anchor"></a>
+            
+
+            <div id="pagination-controls-1" data-bn-widget-name="pagination-controls" data-bntrack="Paginate" class="pagination-controls box pagination-controls"><div class="control previous">
+            
+                    <span class="control-disabled"></span>
+                
+        </div>
+        <div class="control">
+            <span class="page-count">Page 1 of 103474</span>
+        </div>
+        <div class="control next">
+            <a href="http://www.barnesandnoble.com/s/"  title="Next" data-bn-rel="http://www.barnesandnoble.com/s/?startat=31&store=ebook" data-bntrack="Next" class="control-a" data-startat="31">Next
+                        </a>
+        </div></div><a name="search-view-toggle-controls-1" class="search-view-toggle-controls-anchor"></a>
+            
+
+            <div id="search-view-toggle-controls-1" data-bn-widget-name="search-view-toggle-controls" data-bntrack="View As" class="box search-view-toggle-controls"><!-- TestMarker_searchResultsView_grid -->
+    
+
+    <span class="option-name">View as:</span>
+    
+            <span class="grid toggle">Grid</span>
+        <a href="#"  title="list" data-bn-rel="http://www.barnesandnoble.com/s/?store=ebook&view=list" data-bntrack="List" class="list toggle" rel="nofollow">
+                List
+            </a></div></div>
+<!-- TestMarker_searchResultsView_grid -->
+<a name="search-results-1" class="search-results-anchor"></a>
+            
+
+            <div id="search-results-1" data-bn-widget-name="search-results" class="grid search-results"><ul class="result-set box" data-bntrack="Search Results grid" data-bntrack-root="true" data-bntrack-pageaware="true">
+        
+            <li class="result box has-badge" id="search-result0" data-bntrack="1">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780345527752" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/notorious-nineteen-janet-evanovich/1111294831"  data-bn-rel="http://www.barnesandnoble.com/w/notorious-nineteen-janet-evanovich/1111294831?ean=9780345527752" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1590972438" width="110" class="product-image image img book" alt="Notorious Nineteen (Stephanie Plum Series #19)" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/notorious-nineteen-janet-evanovich/1111294831"  data-bn-rel="http://www.barnesandnoble.com/w/notorious-nineteen-janet-evanovich/1111294831?ean=9780345527752" data-bntrack="Title_9780345527752" class="title"><span title="Notorious Nineteen (Stephanie Plum Series #19)">Notorious Nineteen (Stephanie...</span></a><a href="http://www.barnesandnoble.com/c/janet-evanovich/883258"  data-bntrack="Contributor_9780345527752" class="contributor">Janet Evanovich</a><a href="http://www.barnesandnoble.com/w/notorious-nineteen-janet-evanovich/1111294831"  data-bn-rel="http://www.barnesandnoble.com/w/notorious-nineteen-janet-evanovich/1111294831?ean=9780345527752" data-bntrack="Sublinks_9780345527752"><span class="stars-small r4" title="Average rating of 3.85 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/notorious-nineteen-janet-evanovich/1111294831"  data-bn-rel="http://www.barnesandnoble.com/w/notorious-nineteen-janet-evanovich/1111294831?ean=9780345527752&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$12.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085924" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Notorious Nineteen (Stephanie Plum Series #19)" id="instant-purchase-rnd-503108022" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780345527752&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-180EA-EP" data-cm-workid="1111294831" data-cm-ean="9780345527752">Buy Now</a>
+    <div id="bn-overlay-instant-purchase-overlay" class="bn-overlay-content">
+        
+        <div class="yui3-widget-bd box">
+            
+            <div id="instant-purchase-layout-1"></div>
+        
+        </div>
+        
+    </div>
+    
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result1" data-bntrack="2">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780316210690" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/merry-christmas-alex-cross-james-patterson/1106501668"  data-bn-rel="http://www.barnesandnoble.com/w/merry-christmas-alex-cross-james-patterson/1106501668?ean=9780316210690" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1413805866" width="107" class="product-image image img book" alt="Merry Christmas, Alex Cross" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/merry-christmas-alex-cross-james-patterson/1106501668"  data-bn-rel="http://www.barnesandnoble.com/w/merry-christmas-alex-cross-james-patterson/1106501668?ean=9780316210690" data-bntrack="Title_9780316210690" class="title">Merry Christmas, Alex Cross</a><a href="http://www.barnesandnoble.com/c/james-patterson/968077"  data-bntrack="Contributor_9780316210690" class="contributor">James Patterson</a><a href="http://www.barnesandnoble.com/w/merry-christmas-alex-cross-james-patterson/1106501668"  data-bn-rel="http://www.barnesandnoble.com/w/merry-christmas-alex-cross-james-patterson/1106501668?ean=9780316210690" data-bntrack="Sublinks_9780316210690"><span class="stars-small r4" title="Average rating of 3.95 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/merry-christmas-alex-cross-james-patterson/1106501668"  data-bn-rel="http://www.barnesandnoble.com/w/merry-christmas-alex-cross-james-patterson/1106501668?ean=9780316210690&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$9.20</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085925" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Merry Christmas, Alex Cross" id="instant-purchase-rnd-1590731388" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780316210690&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174EA-EP" data-cm-workid="1106501668" data-cm-ean="9780316210690">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result2" data-bntrack="3">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781455515530" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/private-london-james-patterson/1110382158"  data-bn-rel="http://www.barnesandnoble.com/w/private-london-james-patterson/1110382158?ean=9781455515530" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1309950019" width="107" class="product-image image img book" alt="Private London" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/private-london-james-patterson/1110382158"  data-bn-rel="http://www.barnesandnoble.com/w/private-london-james-patterson/1110382158?ean=9781455515530" data-bntrack="Title_9781455515530" class="title">Private London</a><a href="http://www.barnesandnoble.com/c/james-patterson/968077"  data-bntrack="Contributor_9781455515530" class="contributor">James Patterson</a><a href="http://www.barnesandnoble.com/w/private-london-james-patterson/1110382158"  data-bn-rel="http://www.barnesandnoble.com/w/private-london-james-patterson/1110382158?ean=9781455515530" data-bntrack="Sublinks_9781455515530"><span class="stars-small r3h" title="Average rating of 3.68 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/private-london-james-patterson/1110382158"  data-bn-rel="http://www.barnesandnoble.com/w/private-london-james-patterson/1110382158?ean=9781455515530&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$8.28</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085926" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Private London" id="instant-purchase-rnd-1937341816" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781455515530&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174EA-EP" data-cm-workid="1110382158" data-cm-ean="9781455515530">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result3" data-bntrack="4">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780385536882" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/the-racketeer-john-grisham/1109601304"  data-bn-rel="http://www.barnesandnoble.com/w/the-racketeer-john-grisham/1109601304?ean=9780385536882" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-837680755" width="109" class="product-image image img book" alt="The Racketeer" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/the-racketeer-john-grisham/1109601304"  data-bn-rel="http://www.barnesandnoble.com/w/the-racketeer-john-grisham/1109601304?ean=9780385536882" data-bntrack="Title_9780385536882" class="title">The Racketeer</a><a href="http://www.barnesandnoble.com/c/john-grisham/702011"  data-bntrack="Contributor_9780385536882" class="contributor">John Grisham</a><a href="http://www.barnesandnoble.com/w/the-racketeer-john-grisham/1109601304"  data-bn-rel="http://www.barnesandnoble.com/w/the-racketeer-john-grisham/1109601304?ean=9780385536882" data-bntrack="Sublinks_9780385536882"><span class="stars-small r4" title="Average rating of 3.7600000000000002 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/the-racketeer-john-grisham/1109601304"  data-bn-rel="http://www.barnesandnoble.com/w/the-racketeer-john-grisham/1109601304?ean=9780385536882&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$12.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085927" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="The Racketeer" id="instant-purchase-rnd-2134269314" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780385536882&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174EA-EP" data-cm-workid="1109601304" data-cm-ean="9780385536882">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result4" data-bntrack="5">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781101612231" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/the-perfect-hope-nora-roberts/1108813292"  data-bn-rel="http://www.barnesandnoble.com/w/the-perfect-hope-nora-roberts/1108813292?ean=9781101612231" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1471712748" width="113" class="product-image image img book" alt="The Perfect Hope (Inn BoonsBoro Trilogy #3)" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/the-perfect-hope-nora-roberts/1108813292"  data-bn-rel="http://www.barnesandnoble.com/w/the-perfect-hope-nora-roberts/1108813292?ean=9781101612231" data-bntrack="Title_9781101612231" class="title"><span title="The Perfect Hope (Inn BoonsBoro Trilogy #3)">The Perfect Hope (Inn...</span></a><a href="http://www.barnesandnoble.com/c/nora-roberts/881767"  data-bntrack="Contributor_9781101612231" class="contributor">Nora Roberts</a><a href="http://www.barnesandnoble.com/w/the-perfect-hope-nora-roberts/1108813292"  data-bn-rel="http://www.barnesandnoble.com/w/the-perfect-hope-nora-roberts/1108813292?ean=9781101612231" data-bntrack="Sublinks_9781101612231"><span class="stars-small r4" title="Average rating of 4.18 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/the-perfect-hope-nora-roberts/1108813292"  data-bn-rel="http://www.barnesandnoble.com/w/the-perfect-hope-nora-roberts/1108813292?ean=9781101612231&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$9.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085928" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="The Perfect Hope (Inn BoonsBoro Trilogy #3)" id="instant-purchase-rnd-2063134317" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781101612231&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-183AA-EP" data-cm-workid="1108813292" data-cm-ean="9781101612231">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result5" data-bntrack="6">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781613124505" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/the-third-wheel-jeff-kinney/1111392893"  data-bn-rel="http://www.barnesandnoble.com/w/the-third-wheel-jeff-kinney/1111392893?ean=9781613124505" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-869216036" width="113" class="product-image image img book" alt="The Third Wheel (Diary of a Wimpy Kid Series #7) (PagePerfect NOOK Book)" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/the-third-wheel-jeff-kinney/1111392893"  data-bn-rel="http://www.barnesandnoble.com/w/the-third-wheel-jeff-kinney/1111392893?ean=9781613124505" data-bntrack="Title_9781613124505" class="title"><span title="The Third Wheel (Diary of a Wimpy Kid Series #7) (PagePerfect NOOK Book)">The Third Wheel (Diary of a...</span></a><a href="http://www.barnesandnoble.com/c/jeff-kinney/1996463"  data-bntrack="Contributor_9781613124505" class="contributor">Jeff Kinney</a><a href="http://www.barnesandnoble.com/w/the-third-wheel-jeff-kinney/1111392893"  data-bn-rel="http://www.barnesandnoble.com/w/the-third-wheel-jeff-kinney/1111392893?ean=9781613124505" data-bntrack="Sublinks_9781613124505"><span class="stars-small r4h" title="Average rating of 4.4 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/the-third-wheel-jeff-kinney/1111392893"  data-bn-rel="http://www.barnesandnoble.com/w/the-third-wheel-jeff-kinney/1111392893?ean=9781613124505&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$6.65</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085929" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="The Third Wheel (Diary of a Wimpy Kid Series #7) (PagePerfect NOOK Book)" id="instant-purchase-rnd-1962606285" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781613124505&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="B7-604LB-E9" data-cm-workid="1111392893" data-cm-ean="9781613124505">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result6" data-bntrack="7">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780446573047" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/the-forgotten-david-baldacci/1111301605"  data-bn-rel="http://www.barnesandnoble.com/w/the-forgotten-david-baldacci/1111301605?ean=9780446573047" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-575810186" width="107" class="product-image image img book" alt="The Forgotten" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/the-forgotten-david-baldacci/1111301605"  data-bn-rel="http://www.barnesandnoble.com/w/the-forgotten-david-baldacci/1111301605?ean=9780446573047" data-bntrack="Title_9780446573047" class="title">The Forgotten</a><a href="http://www.barnesandnoble.com/c/david-baldacci/881663"  data-bntrack="Contributor_9780446573047" class="contributor">David Baldacci</a><a href="http://www.barnesandnoble.com/w/the-forgotten-david-baldacci/1111301605"  data-bn-rel="http://www.barnesandnoble.com/w/the-forgotten-david-baldacci/1111301605?ean=9780446573047" data-bntrack="Sublinks_9780446573047"><span class="stars-small r4" title="Average rating of 3.99 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/the-forgotten-david-baldacci/1111301605"  data-bn-rel="http://www.barnesandnoble.com/w/the-forgotten-david-baldacci/1111301605?ean=9780446573047&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$9.20</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085930" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="The Forgotten" id="instant-purchase-rnd-1761732307" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780446573047&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174EA-EP" data-cm-workid="1111301605" data-cm-ean="9780446573047">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result7" data-bntrack="8">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780316069441" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/the-black-box-michael-connelly/1108616357"  data-bn-rel="http://www.barnesandnoble.com/w/the-black-box-michael-connelly/1108616357?ean=9780316069441" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1920501200" width="106" class="product-image image img book" alt="The Black Box (Harry Bosch Series #18)" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/the-black-box-michael-connelly/1108616357"  data-bn-rel="http://www.barnesandnoble.com/w/the-black-box-michael-connelly/1108616357?ean=9780316069441" data-bntrack="Title_9780316069441" class="title"><span title="The Black Box (Harry Bosch Series #18)">The Black Box (Harry Bosch...</span></a><a href="http://www.barnesandnoble.com/c/michael-connelly/881687"  data-bntrack="Contributor_9780316069441" class="contributor">Michael Connelly</a><a href="http://www.barnesandnoble.com/w/the-black-box-michael-connelly/1108616357"  data-bn-rel="http://www.barnesandnoble.com/w/the-black-box-michael-connelly/1108616357?ean=9780316069441" data-bntrack="Sublinks_9780316069441"><span class="stars-small r4" title="Average rating of 3.9 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/the-black-box-michael-connelly/1108616357"  data-bn-rel="http://www.barnesandnoble.com/w/the-black-box-michael-connelly/1108616357?ean=9780316069441&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$8.28</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085931" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="The Black Box (Harry Bosch Series #18)" id="instant-purchase-rnd-1040078438" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780316069441&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174EA-EP" data-cm-workid="1108616357" data-cm-ean="9780316069441">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result8" data-bntrack="9">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781101604915" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/reflected-in-you-sylvia-day/1111893622"  data-bn-rel="http://www.barnesandnoble.com/w/reflected-in-you-sylvia-day/1111893622?ean=9781101604915" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1139162139" width="111" class="product-image image img book" alt="Reflected in You (Crossfire Series #2)" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/reflected-in-you-sylvia-day/1111893622"  data-bn-rel="http://www.barnesandnoble.com/w/reflected-in-you-sylvia-day/1111893622?ean=9781101604915" data-bntrack="Title_9781101604915" class="title"><span title="Reflected in You (Crossfire Series #2)">Reflected in You (Crossfire...</span></a><a href="http://www.barnesandnoble.com/c/sylvia-day"  data-bntrack="Contributor_9781101604915" class="contributor">Sylvia Day</a><a href="http://www.barnesandnoble.com/w/reflected-in-you-sylvia-day/1111893622"  data-bn-rel="http://www.barnesandnoble.com/w/reflected-in-you-sylvia-day/1111893622?ean=9781101604915" data-bntrack="Sublinks_9781101604915"><span class="stars-small r4h" title="Average rating of 4.54 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/reflected-in-you-sylvia-day/1111893622"  data-bn-rel="http://www.barnesandnoble.com/w/reflected-in-you-sylvia-day/1111893622?ean=9781101604915&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$9.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085932" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Reflected in You (Crossfire Series #2)" id="instant-purchase-rnd-176866099" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781101604915&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-183EA-EP" data-cm-workid="1111893622" data-cm-ean="9781101604915">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result9" data-bntrack="10">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780316199896" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/nypd-red-james-patterson/1110504804"  data-bn-rel="http://www.barnesandnoble.com/w/nypd-red-james-patterson/1110504804?ean=9780316199896" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1177107603" width="107" class="product-image image img book" alt="NYPD Red" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/nypd-red-james-patterson/1110504804"  data-bn-rel="http://www.barnesandnoble.com/w/nypd-red-james-patterson/1110504804?ean=9780316199896" data-bntrack="Title_9780316199896" class="title">NYPD Red</a><a href="http://www.barnesandnoble.com/c/james-patterson/968077"  data-bntrack="Contributor_9780316199896" class="contributor">James Patterson</a><a href="http://www.barnesandnoble.com/w/nypd-red-james-patterson/1110504804"  data-bn-rel="http://www.barnesandnoble.com/w/nypd-red-james-patterson/1110504804?ean=9780316199896" data-bntrack="Sublinks_9780316199896"><span class="stars-small r4" title="Average rating of 3.97 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/nypd-red-james-patterson/1110504804"  data-bn-rel="http://www.barnesandnoble.com/w/nypd-red-james-patterson/1110504804?ean=9780316199896&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$9.20</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085933" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="NYPD Red" id="instant-purchase-rnd-241788718" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780316199896&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174EA-EP" data-cm-workid="1110504804" data-cm-ean="9780316199896">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result10" data-bntrack="11">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780316228558" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/the-casual-vacancy-j-k-rowling/1110118103"  data-bn-rel="http://www.barnesandnoble.com/w/the-casual-vacancy-j-k-rowling/1110118103?ean=9780316228558" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-713908704" width="107" class="product-image image img book" alt="The Casual Vacancy" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/the-casual-vacancy-j-k-rowling/1110118103"  data-bn-rel="http://www.barnesandnoble.com/w/the-casual-vacancy-j-k-rowling/1110118103?ean=9780316228558" data-bntrack="Title_9780316228558" class="title">The Casual Vacancy</a><a href="http://www.barnesandnoble.com/c/j.-k.-rowling/855300"  data-bntrack="Contributor_9780316228558" class="contributor">J. K. Rowling</a><a href="http://www.barnesandnoble.com/w/the-casual-vacancy-j-k-rowling/1110118103"  data-bn-rel="http://www.barnesandnoble.com/w/the-casual-vacancy-j-k-rowling/1110118103?ean=9780316228558" data-bntrack="Sublinks_9780316228558"><span class="stars-small r3" title="Average rating of 3.02 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/the-casual-vacancy-j-k-rowling/1110118103"  data-bn-rel="http://www.barnesandnoble.com/w/the-casual-vacancy-j-k-rowling/1110118103?ean=9780316228558&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$8.28</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085934" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="The Casual Vacancy" id="instant-purchase-rnd-1265127529" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780316228558&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174AA-EP" data-cm-workid="1110118103" data-cm-ean="9780316228558">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result11" data-bntrack="12">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781101607954" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/threat-vector-tom-clancy/1112713893"  data-bn-rel="http://www.barnesandnoble.com/w/threat-vector-tom-clancy/1112713893?ean=9781101607954" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-361097551" width="109" class="product-image image img book" alt="Threat Vector" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/threat-vector-tom-clancy/1112713893"  data-bn-rel="http://www.barnesandnoble.com/w/threat-vector-tom-clancy/1112713893?ean=9781101607954" data-bntrack="Title_9781101607954" class="title">Threat Vector</a><a href="http://www.barnesandnoble.com/c/tom-clancy/797652"  data-bntrack="Contributor_9781101607954" class="contributor">Tom Clancy</a><a href="http://www.barnesandnoble.com/w/threat-vector-tom-clancy/1112713893"  data-bn-rel="http://www.barnesandnoble.com/w/threat-vector-tom-clancy/1112713893?ean=9781101607954" data-bntrack="Sublinks_9781101607954"><span class="stars-small r4" title="Average rating of 3.98 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/threat-vector-tom-clancy/1112713893"  data-bn-rel="http://www.barnesandnoble.com/w/threat-vector-tom-clancy/1112713893?ean=9781101607954&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$12.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085935" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Threat Vector" id="instant-purchase-rnd-339776767" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781101607954&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174EA-EP" data-cm-workid="1112713893" data-cm-ean="9781101607954">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result12" data-bntrack="13">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781101569702" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/gabriels-angel-nora-roberts/1101974458"  data-bn-rel="http://www.barnesandnoble.com/w/gabriels-angel-nora-roberts/1101974458?ean=9781101569702" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1125429613" width="103" class="product-image image img book" alt="Gabriel's Angel" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/gabriels-angel-nora-roberts/1101974458"  data-bn-rel="http://www.barnesandnoble.com/w/gabriels-angel-nora-roberts/1101974458?ean=9781101569702" data-bntrack="Title_9781101569702" class="title">Gabriel's Angel</a><a href="http://www.barnesandnoble.com/c/nora-roberts/881767"  data-bntrack="Contributor_9781101569702" class="contributor">Nora Roberts</a><a href="http://www.barnesandnoble.com/w/gabriels-angel-nora-roberts/1101974458"  data-bn-rel="http://www.barnesandnoble.com/w/gabriels-angel-nora-roberts/1101974458?ean=9781101569702" data-bntrack="Sublinks_9781101569702"><span class="stars-small r3h" title="Average rating of 3.67 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/gabriels-angel-nora-roberts/1101974458"  data-bn-rel="http://www.barnesandnoble.com/w/gabriels-angel-nora-roberts/1101974458?ean=9781101569702&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$6.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085936" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Gabriel's Angel" id="instant-purchase-rnd-886028367" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781101569702&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="B7-183AA-EP" data-cm-workid="1101974458" data-cm-ean="9781101569702">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result13" data-bntrack="14">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780345535924" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/shadow-woman-linda-howard/1109328208"  data-bn-rel="http://www.barnesandnoble.com/w/shadow-woman-linda-howard/1109328208?ean=9780345535924" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-105053712" width="108" class="product-image image img book" alt="Shadow Woman" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/shadow-woman-linda-howard/1109328208"  data-bn-rel="http://www.barnesandnoble.com/w/shadow-woman-linda-howard/1109328208?ean=9780345535924" data-bntrack="Title_9780345535924" class="title">Shadow Woman</a><a href="http://www.barnesandnoble.com/c/linda-howard"  data-bntrack="Contributor_9780345535924" class="contributor">Linda Howard</a><a href="http://www.barnesandnoble.com/w/shadow-woman-linda-howard/1109328208"  data-bn-rel="http://www.barnesandnoble.com/w/shadow-woman-linda-howard/1109328208?ean=9780345535924" data-bntrack="Sublinks_9780345535924"><span class="stars-small r3h" title="Average rating of 3.62 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/shadow-woman-linda-howard/1109328208"  data-bn-rel="http://www.barnesandnoble.com/w/shadow-woman-linda-howard/1109328208?ean=9780345535924&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$13.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085937" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Shadow Woman" id="instant-purchase-rnd-900487777" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780345535924&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-183SA-EP" data-cm-workid="1109328208" data-cm-ean="9780345535924">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result14" data-bntrack="15">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781101614648" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/shades-of-gray-maya-banks/1111307493"  data-bn-rel="http://www.barnesandnoble.com/w/shades-of-gray-maya-banks/1111307493?ean=9781101614648" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-615527136" width="102" class="product-image image img book" alt="Shades of Gray" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/shades-of-gray-maya-banks/1111307493"  data-bn-rel="http://www.barnesandnoble.com/w/shades-of-gray-maya-banks/1111307493?ean=9781101614648" data-bntrack="Title_9781101614648" class="title">Shades of Gray</a><a href="http://www.barnesandnoble.com/c/maya-banks"  data-bntrack="Contributor_9781101614648" class="contributor">Maya Banks</a><a href="http://www.barnesandnoble.com/w/shades-of-gray-maya-banks/1111307493"  data-bn-rel="http://www.barnesandnoble.com/w/shades-of-gray-maya-banks/1111307493?ean=9781101614648" data-bntrack="Sublinks_9781101614648"><span class="stars-small r4h" title="Average rating of 4.54 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/shades-of-gray-maya-banks/1111307493"  data-bn-rel="http://www.barnesandnoble.com/w/shades-of-gray-maya-banks/1111307493?ean=9781101614648&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$7.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085938" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Shades of Gray" id="instant-purchase-rnd-1040338698" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781101614648&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-183SA-EP" data-cm-workid="1111307493" data-cm-ean="9781101614648">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result15" data-bntrack="16">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780062190062" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/carnival-of-souls-melissa-marr/1108621102"  data-bn-rel="http://www.barnesandnoble.com/w/carnival-of-souls-melissa-marr/1108621102?ean=9780062190062" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-485731729" width="110" class="product-image image img book" alt="Carnival of Souls" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/carnival-of-souls-melissa-marr/1108621102"  data-bn-rel="http://www.barnesandnoble.com/w/carnival-of-souls-melissa-marr/1108621102?ean=9780062190062" data-bntrack="Title_9780062190062" class="title">Carnival of Souls</a><a href="http://www.barnesandnoble.com/c/melissa-marr/1826440"  data-bntrack="Contributor_9780062190062" class="contributor">Melissa Marr</a><a href="http://www.barnesandnoble.com/w/carnival-of-souls-melissa-marr/1108621102"  data-bn-rel="http://www.barnesandnoble.com/w/carnival-of-souls-melissa-marr/1108621102?ean=9780062190062" data-bntrack="Sublinks_9780062190062"><span class="stars-small r4" title="Average rating of 4.13 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/carnival-of-souls-melissa-marr/1108621102"  data-bn-rel="http://www.barnesandnoble.com/w/carnival-of-souls-melissa-marr/1108621102?ean=9780062190062&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$1.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085939" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Carnival of Souls" id="instant-purchase-rnd-1630887910" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780062190062&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-608PB-EP" data-cm-workid="1108621102" data-cm-ean="9780062190062">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result16" data-bntrack="17">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="2940012239457" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/25-favorite-novels-jane-austen/1100089081"  data-bn-rel="http://www.barnesandnoble.com/w/25-favorite-novels-jane-austen/1100089081?ean=2940012239457" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1250143790" width="111" class="product-image image img book" alt="25 Favorite Novels (Anne of Green Gables/Avonlea, Pride and Prejudice, Persuasion, Emma, Wuthering Heights, Jane Eyre, Tess of the D'Urbervilles, Little Women, My Antonia, O Pioneers!, Scarlet Letter/Pimpernel, Wives & Daughters, +)" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/25-favorite-novels-jane-austen/1100089081"  data-bn-rel="http://www.barnesandnoble.com/w/25-favorite-novels-jane-austen/1100089081?ean=2940012239457" data-bntrack="Title_2940012239457" class="title"><span title="25 Favorite Novels (Anne of Green Gables/Avonlea, Pride and Prejudice, Persuasion, Emma, Wuthering Heights, Jane Eyre, Tess of the D'Urbervilles, Little Women, My Antonia, O Pioneers!, Scarlet Letter/Pimpernel, Wives & Daughters, +)">25 Favorite Novels (Anne of...</span></a><a href="http://www.barnesandnoble.com/c/jane-austen"  data-bntrack="Contributor_2940012239457" class="contributor">Jane Austen</a><a href="http://www.barnesandnoble.com/w/25-favorite-novels-jane-austen/1100089081"  data-bn-rel="http://www.barnesandnoble.com/w/25-favorite-novels-jane-austen/1100089081?ean=2940012239457" data-bntrack="Sublinks_2940012239457"><span class="stars-small r4" title="Average rating of 3.97 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/25-favorite-novels-jane-austen/1100089081"  data-bn-rel="http://www.barnesandnoble.com/w/25-favorite-novels-jane-austen/1100089081?ean=2940012239457&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$0.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085940" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="25 Favorite Novels (Anne of Green Gables/Avonlea, Pride and Prejudice, Persuasion, Emma, Wuthering Heights, Jane Eyre, Tess of the D'Urbervilles, Little Women, My Antonia, O Pioneers!, Scarlet Letter/Pimpernel, Wives &amp; Daughters, +)" id="instant-purchase-rnd-396143344" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=2940012239457&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="B7-183AA-EP" data-cm-workid="1100089081" data-cm-ean="2940012239457">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result17" data-bntrack="18">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781101604786" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/bared-to-you-sylvia-day/1109476179"  data-bn-rel="http://www.barnesandnoble.com/w/bared-to-you-sylvia-day/1109476179?ean=9781101604786" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1424709080" width="111" class="product-image image img book" alt="Bared to You (Crossfire Series #1)" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/bared-to-you-sylvia-day/1109476179"  data-bn-rel="http://www.barnesandnoble.com/w/bared-to-you-sylvia-day/1109476179?ean=9781101604786" data-bntrack="Title_9781101604786" class="title"><span title="Bared to You (Crossfire Series #1)">Bared to You (Crossfire Series...</span></a><a href="http://www.barnesandnoble.com/c/sylvia-day"  data-bntrack="Contributor_9781101604786" class="contributor">Sylvia Day</a><a href="http://www.barnesandnoble.com/w/bared-to-you-sylvia-day/1109476179"  data-bn-rel="http://www.barnesandnoble.com/w/bared-to-you-sylvia-day/1109476179?ean=9781101604786" data-bntrack="Sublinks_9781101604786"><span class="stars-small r4" title="Average rating of 3.91 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/bared-to-you-sylvia-day/1109476179"  data-bn-rel="http://www.barnesandnoble.com/w/bared-to-you-sylvia-day/1109476179?ean=9781101604786&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$9.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085941" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Bared to You (Crossfire Series #1)" id="instant-purchase-rnd-132411171" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781101604786&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-183EA-EP" data-cm-workid="1109476179" data-cm-ean="9781101604786">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result18" data-bntrack="19">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780547951973" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/hobbit-j-r-r-tolkien/1100068700"  data-bn-rel="http://www.barnesandnoble.com/w/hobbit-j-r-r-tolkien/1100068700?ean=9780547951973" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-302103449" width="111" class="product-image image img book" alt="The Hobbit" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/hobbit-j-r-r-tolkien/1100068700"  data-bn-rel="http://www.barnesandnoble.com/w/hobbit-j-r-r-tolkien/1100068700?ean=9780547951973" data-bntrack="Title_9780547951973" class="title">The Hobbit</a><a href="http://www.barnesandnoble.com/c/j.-r.-r.-tolkien/833943"  data-bntrack="Contributor_9780547951973" class="contributor">J. R. R. Tolkien</a><a href="http://www.barnesandnoble.com/w/hobbit-j-r-r-tolkien/1100068700"  data-bn-rel="http://www.barnesandnoble.com/w/hobbit-j-r-r-tolkien/1100068700?ean=9780547951973" data-bntrack="Sublinks_9780547951973"><span class="stars-small r4h" title="Average rating of 4.55 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/hobbit-j-r-r-tolkien/1100068700"  data-bn-rel="http://www.barnesandnoble.com/w/hobbit-j-r-r-tolkien/1100068700?ean=9780547951973&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$7.50</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085942" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="The Hobbit" id="instant-purchase-rnd-1743720725" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780547951973&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="B7-177BA-EP" data-cm-workid="1100068700" data-cm-ean="9780547951973">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result19" data-bntrack="20">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781250036551" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/shred-ian-k-smith/1113322638"  data-bn-rel="http://www.barnesandnoble.com/w/shred-ian-k-smith/1113322638?ean=9781250036551" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-2124395260" width="109" class="product-image image img book" alt="Shred: The Revolutionary Diet: 6 Weeks 4 Inches 2 Sizes" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/shred-ian-k-smith/1113322638"  data-bn-rel="http://www.barnesandnoble.com/w/shred-ian-k-smith/1113322638?ean=9781250036551" data-bntrack="Title_9781250036551" class="title"><span title="Shred: The Revolutionary Diet: 6 Weeks 4 Inches 2 Sizes">Shred: The Revolutionary Diet:...</span></a><a href="http://www.barnesandnoble.com/c/ian-k.-smith"  data-bntrack="Contributor_9781250036551" class="contributor">Ian K. Smith</a><a href="http://www.barnesandnoble.com/w/shred-ian-k-smith/1113322638"  data-bn-rel="http://www.barnesandnoble.com/w/shred-ian-k-smith/1113322638?ean=9781250036551" data-bntrack="Sublinks_9781250036551"><span class="stars-small r4" title="Average rating of 3.9 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/shred-ian-k-smith/1113322638"  data-bn-rel="http://www.barnesandnoble.com/w/shred-ian-k-smith/1113322638?ean=9781250036551&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$11.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085943" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Shred: The Revolutionary Diet: 6 Weeks 4 Inches 2 Sizes" id="instant-purchase-rnd-226777931" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781250036551&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-132AA-EP" data-cm-workid="1113322638" data-cm-ean="9781250036551">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result20" data-bntrack="21">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780062114457" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/insurgent-veronica-roth/1105707005"  data-bn-rel="http://www.barnesandnoble.com/w/insurgent-veronica-roth/1105707005?ean=9780062114457" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-938355006" width="110" class="product-image image img book" alt="Insurgent (Divergent Series #2)" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/insurgent-veronica-roth/1105707005"  data-bn-rel="http://www.barnesandnoble.com/w/insurgent-veronica-roth/1105707005?ean=9780062114457" data-bntrack="Title_9780062114457" class="title">Insurgent (Divergent Series #2)</a><a href="http://www.barnesandnoble.com/c/veronica-roth/3099730"  data-bntrack="Contributor_9780062114457" class="contributor">Veronica Roth</a><a href="http://www.barnesandnoble.com/w/insurgent-veronica-roth/1105707005"  data-bn-rel="http://www.barnesandnoble.com/w/insurgent-veronica-roth/1105707005?ean=9780062114457" data-bntrack="Sublinks_9780062114457"><span class="stars-small r4h" title="Average rating of 4.67 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/insurgent-veronica-roth/1105707005"  data-bn-rel="http://www.barnesandnoble.com/w/insurgent-veronica-roth/1105707005?ean=9780062114457&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$7.29</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085944" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Insurgent (Divergent Series #2)" id="instant-purchase-rnd-1792794737" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780062114457&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-608FB-EP" data-cm-workid="1105707005" data-cm-ean="9780062114457">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result21" data-bntrack="22">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780805096675" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/killing-kennedy-bill-oreilly/1110781085"  data-bn-rel="http://www.barnesandnoble.com/w/killing-kennedy-bill-oreilly/1110781085?ean=9780805096675" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1549548551" width="110" class="product-image image img book" alt="Killing Kennedy: The End of Camelot" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/killing-kennedy-bill-oreilly/1110781085"  data-bn-rel="http://www.barnesandnoble.com/w/killing-kennedy-bill-oreilly/1110781085?ean=9780805096675" data-bntrack="Title_9780805096675" class="title"><span title="Killing Kennedy: The End of Camelot">Killing Kennedy: The End of...</span></a><a href="http://www.barnesandnoble.com/c/bill-oreilly/2727942"  data-bntrack="Contributor_9780805096675" class="contributor">Bill O'Reilly</a><a href="http://www.barnesandnoble.com/w/killing-kennedy-bill-oreilly/1110781085"  data-bn-rel="http://www.barnesandnoble.com/w/killing-kennedy-bill-oreilly/1110781085?ean=9780805096675" data-bntrack="Sublinks_9780805096675"><span class="stars-small r4" title="Average rating of 3.99 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/killing-kennedy-bill-oreilly/1110781085"  data-bn-rel="http://www.barnesandnoble.com/w/killing-kennedy-bill-oreilly/1110781085?ean=9780805096675&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$12.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085945" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Killing Kennedy: The End of Camelot" id="instant-purchase-rnd-1120639337" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780805096675&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-142BA-EP" data-cm-workid="1110781085" data-cm-ean="9780805096675">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result22" data-bntrack="23">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780446574242" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/safe-haven-nicholas-sparks/1100038515"  data-bn-rel="http://www.barnesandnoble.com/w/safe-haven-nicholas-sparks/1100038515?ean=9780446574242" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1548740554" width="103" class="product-image image img book" alt="Safe Haven" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/safe-haven-nicholas-sparks/1100038515"  data-bn-rel="http://www.barnesandnoble.com/w/safe-haven-nicholas-sparks/1100038515?ean=9780446574242" data-bntrack="Title_9780446574242" class="title">Safe Haven</a><a href="http://www.barnesandnoble.com/c/nicholas-sparks/977379"  data-bntrack="Contributor_9780446574242" class="contributor">Nicholas Sparks</a><a href="http://www.barnesandnoble.com/w/safe-haven-nicholas-sparks/1100038515"  data-bn-rel="http://www.barnesandnoble.com/w/safe-haven-nicholas-sparks/1100038515?ean=9780446574242" data-bntrack="Sublinks_9780446574242"><span class="stars-small r4" title="Average rating of 4.12 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/safe-haven-nicholas-sparks/1100038515"  data-bn-rel="http://www.barnesandnoble.com/w/safe-haven-nicholas-sparks/1100038515?ean=9780446574242&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$3.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085946" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Safe Haven" id="instant-purchase-rnd-177817007" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780446574242&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174AA-EP" data-cm-workid="1100038515" data-cm-ean="9780446574242">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result23" data-bntrack="24">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780307588388" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/gone-girl-gillian-flynn/1105608095"  data-bn-rel="http://www.barnesandnoble.com/w/gone-girl-gillian-flynn/1105608095?ean=9780307588388" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-511388662" width="110" class="product-image image img book" alt="Gone Girl" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/gone-girl-gillian-flynn/1105608095"  data-bn-rel="http://www.barnesandnoble.com/w/gone-girl-gillian-flynn/1105608095?ean=9780307588388" data-bntrack="Title_9780307588388" class="title">Gone Girl</a><a href="http://www.barnesandnoble.com/c/gillian-flynn/2076615"  data-bntrack="Contributor_9780307588388" class="contributor">Gillian Flynn</a><a href="http://www.barnesandnoble.com/w/gone-girl-gillian-flynn/1105608095"  data-bn-rel="http://www.barnesandnoble.com/w/gone-girl-gillian-flynn/1105608095?ean=9780307588388" data-bntrack="Sublinks_9780307588388"><span class="stars-small r4" title="Average rating of 3.83 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/gone-girl-gillian-flynn/1105608095"  data-bn-rel="http://www.barnesandnoble.com/w/gone-girl-gillian-flynn/1105608095?ean=9780307588388&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$12.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085947" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Gone Girl" id="instant-purchase-rnd-294969913" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780307588388&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174DA-EP" data-cm-workid="1105608095" data-cm-ean="9780307588388">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result24" data-bntrack="25">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="2940000982860" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://search.barnesandnoble.com/COSMOPOLITAN/e/2940000982860"  hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-2028982349" width="114" class="product-image image img book" alt="Cosmopolitan - US edition" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="155"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://search.barnesandnoble.com/COSMOPOLITAN/e/2940000982860"  data-bntrack="Title_2940000982860" class="title">Cosmopolitan - US edition</a><a href="http://www.barnesandnoble.com/c/hearst"  data-bntrack="Contributor_2940000982860" class="contributor">Hearst</a><a href="http://search.barnesandnoble.com/COSMOPOLITAN/e/2940000982860"  data-bntrack="Sublinks_2940000982860"><span class="stars-small r3h" title="Average rating of 3.61 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://search.barnesandnoble.com/COSMOPOLITAN/e/2940010819347"  data-bn-rel="http://search.barnesandnoble.com/COSMOPOLITAN/e/2940010819347?itm=1" data-bntrack="NOOK Magazine_Format">
+                        <span class="format">NOOK Magazine</span>
+                        </a>
+                </div>
+            
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result25" data-bntrack="26">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781612130293" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/fifty-shades-of-grey-e-l-james/1104280977"  data-bn-rel="http://www.barnesandnoble.com/w/fifty-shades-of-grey-e-l-james/1104280977?ean=9781612130293" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-855515540" width="108" class="product-image image img book" alt="Fifty Shades of Grey (Fifty Shades Trilogy #1)" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/fifty-shades-of-grey-e-l-james/1104280977"  data-bn-rel="http://www.barnesandnoble.com/w/fifty-shades-of-grey-e-l-james/1104280977?ean=9781612130293" data-bntrack="Title_9781612130293" class="title"><span title="Fifty Shades of Grey (Fifty Shades Trilogy #1)">Fifty Shades of Grey (Fifty...</span></a><a href="http://www.barnesandnoble.com/c/e-l-james"  data-bntrack="Contributor_9781612130293" class="contributor">E L James</a><a href="http://www.barnesandnoble.com/w/fifty-shades-of-grey-e-l-james/1104280977"  data-bn-rel="http://www.barnesandnoble.com/w/fifty-shades-of-grey-e-l-james/1104280977?ean=9781612130293" data-bntrack="Sublinks_9781612130293"><span class="stars-small r4" title="Average rating of 3.89 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/fifty-shades-of-grey-e-l-james/1104280977"  data-bn-rel="http://www.barnesandnoble.com/w/fifty-shades-of-grey-e-l-james/1104280977?ean=9781612130293&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$9.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085948" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Fifty Shades of Grey (Fifty Shades Trilogy #1)" id="instant-purchase-rnd-1205786845" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781612130293&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-183EA-EP" data-cm-workid="1104280977" data-cm-ean="9781612130293">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result26" data-bntrack="27">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="2940012365880" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/25-favorite-childrens-books-mark-twain/1110496219"  data-bn-rel="http://www.barnesandnoble.com/w/25-favorite-childrens-books-mark-twain/1110496219?ean=2940012365880" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-405395364" width="111" class="product-image image img book" alt="25 Favorite Children's Books (Black Beauty, Treasure Island, Heidi, Wizard of Oz, Secret Garden, Little Princess, Anne of Green Gables, Jungle Book, Pollyanna, Swiss Family Robinson Crusoe, Tom Sawyer, Huckleberry Finn, +)" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/25-favorite-childrens-books-mark-twain/1110496219"  data-bn-rel="http://www.barnesandnoble.com/w/25-favorite-childrens-books-mark-twain/1110496219?ean=2940012365880" data-bntrack="Title_2940012365880" class="title"><span title="25 Favorite Children's Books (Black Beauty, Treasure Island, Heidi, Wizard of Oz, Secret Garden, Little Princess, Anne of Green Gables, Jungle Book, Pollyanna, Swiss Family Robinson Crusoe, Tom Sawyer, Huckleberry Finn, +)">25 Favorite Children's Books...</span></a><a href="http://www.barnesandnoble.com/c/mark-twain"  data-bntrack="Contributor_2940012365880" class="contributor">Mark Twain</a><a href="http://www.barnesandnoble.com/w/25-favorite-childrens-books-mark-twain/1110496219"  data-bn-rel="http://www.barnesandnoble.com/w/25-favorite-childrens-books-mark-twain/1110496219?ean=2940012365880" data-bntrack="Sublinks_2940012365880"><span class="stars-small r4" title="Average rating of 3.91 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/25-favorite-childrens-books-mark-twain/1110496219"  data-bn-rel="http://www.barnesandnoble.com/w/25-favorite-childrens-books-mark-twain/1110496219?ean=2940012365880&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$0.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085949" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="25 Favorite Children's Books (Black Beauty, Treasure Island, Heidi, Wizard of Oz, Secret Garden, Little Princess, Anne of Green Gables, Jungle Book, Pollyanna, Swiss Family Robinson Crusoe, Tom Sawyer, Huckleberry Finn, +)" id="instant-purchase-rnd-1766110503" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=2940012365880&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="B7-087AA-EP" data-cm-workid="1110496219" data-cm-ean="2940012365880">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result27" data-bntrack="28">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9780345527592" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/defending-jacob-william-landay/1100572462"  data-bn-rel="http://www.barnesandnoble.com/w/defending-jacob-william-landay/1100572462?ean=9780345527592" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1129753610" width="109" class="product-image image img book" alt="Defending Jacob" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/defending-jacob-william-landay/1100572462"  data-bn-rel="http://www.barnesandnoble.com/w/defending-jacob-william-landay/1100572462?ean=9780345527592" data-bntrack="Title_9780345527592" class="title">Defending Jacob</a><a href="http://www.barnesandnoble.com/c/william-landay/3033341"  data-bntrack="Contributor_9780345527592" class="contributor">William Landay</a><a href="http://www.barnesandnoble.com/w/defending-jacob-william-landay/1100572462"  data-bn-rel="http://www.barnesandnoble.com/w/defending-jacob-william-landay/1100572462?ean=9780345527592" data-bntrack="Sublinks_9780345527592"><span class="stars-small r4" title="Average rating of 3.8000000000000003 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/defending-jacob-william-landay/1100572462"  data-bn-rel="http://www.barnesandnoble.com/w/defending-jacob-william-landay/1100572462?ean=9780345527592&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$13.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085950" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Defending Jacob" id="instant-purchase-rnd-690887463" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9780345527592&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-174AA-EP" data-cm-workid="1100572462" data-cm-ean="9780345527592">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result28" data-bntrack="29">
+                
+
+<div class="display-tile-item axis-aligned border" data-bn-ean="9781612130613" data-product-code="ER">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/fifty-shades-freed-e-l-james/1108192066"  data-bn-rel="http://www.barnesandnoble.com/w/fifty-shades-freed-e-l-james/1108192066?ean=9781612130613" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-1402488791" width="108" class="product-image image img book" alt="Fifty Shades Freed (Fifty Shades Trilogy #3)" data-expand-image="" itemprop="image" data-bntrack="LinkedImage" height="166"/>
+                    <span class="custom-icon-hook"></span> </a>
+    <span class="read_now_badge" data-bntrack="BadgeReadNow" alt="Read Instantly">&nbsp;</span>
+    
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/fifty-shades-freed-e-l-james/1108192066"  data-bn-rel="http://www.barnesandnoble.com/w/fifty-shades-freed-e-l-james/1108192066?ean=9781612130613" data-bntrack="Title_9781612130613" class="title"><span title="Fifty Shades Freed (Fifty Shades Trilogy #3)">Fifty Shades Freed (Fifty...</span></a><a href="http://www.barnesandnoble.com/c/e-l-james"  data-bntrack="Contributor_9781612130613" class="contributor">E L James</a><a href="http://www.barnesandnoble.com/w/fifty-shades-freed-e-l-james/1108192066"  data-bn-rel="http://www.barnesandnoble.com/w/fifty-shades-freed-e-l-james/1108192066?ean=9781612130613" data-bntrack="Sublinks_9781612130613"><span class="stars-small r4h" title="Average rating of 4.34 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/fifty-shades-freed-e-l-james/1108192066"  data-bn-rel="http://www.barnesandnoble.com/w/fifty-shades-freed-e-l-james/1108192066?ean=9781612130613&itm=1" data-bntrack="NOOK Book_Format">
+                        <span class="format">NOOK Book</span>
+                        
+                                            <span class="price">$9.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085951" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Fifty Shades Freed (Fifty Shades Trilogy #3)" id="instant-purchase-rnd-1929531422" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=9781612130613&isfreesample=N&isfreetrial=N&productcode=ER" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="BA-183EA-EP" data-cm-workid="1108192066" data-cm-ean="9781612130613">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+            <li class="result box has-badge" id="search-result29" data-bntrack="30">
+                
+
+<div class="display-tile-item axis-aligned nookapp" data-bn-ean="2940043922267" data-product-code="NE">
+    <div class="thumb above-axis">
+        
+    <div class="image-block small nookapp" data-bntrack="Hero Product">
+        <a href="http://www.barnesandnoble.com/w/bingo-agile-fusion/1112958679"  data-bn-rel="http://www.barnesandnoble.com/w/bingo-agile-fusion/1112958679?ean=2940043922267" hidefocus="true" data-bntrack="ProductImageMain"><img src="http://img3.imagesbn.com/resources/images/common/blank.gif" id="rnd-834403785" width="114" class="product-image image img" alt="Bingo" data-expand-image="1" itemprop="image" data-bntrack="LinkedImage" height="114"/>
+                    <span class="custom-icon-hook"></span> </a>
+    </div>
+    
+        <span></span> 
+    </div>
+    <div class="details below-axis">
+        <a href="http://www.barnesandnoble.com/w/bingo-agile-fusion/1112958679"  data-bn-rel="http://www.barnesandnoble.com/w/bingo-agile-fusion/1112958679?ean=2940043922267" data-bntrack="Title_2940043922267" class="title">Bingo</a><a href="http://www.barnesandnoble.com/w/bingo-agile-fusion/1112958679"  data-bn-rel="http://www.barnesandnoble.com/w/bingo-agile-fusion/1112958679?ean=2940043922267" data-bntrack="Sublinks_2940043922267"><span class="stars-small r4" title="Average rating of 3.98 out of 5 stars"></span></a>
+                <div class="price-format">
+                    <a href="http://www.barnesandnoble.com/w/bingo-agile-fusion/1112958679"  data-bn-rel="http://www.barnesandnoble.com/w/bingo-agile-fusion/1112958679?ean=2940043922267&itm=1" data-bntrack="NOOK App_Format">
+                        <span class="format">NOOK App</span>
+                        
+                                            <span class="price">$1.99</span>
+                                        </a>
+                </div>
+            
+                    <div class="buynow-button-holder box"></div>
+                    <div class="buynow-button">
+                        
+<div id="enhanced_rnd-1005085952" class="purchase-options-wrapper">
+    <a href="#"  data-cm-title="Bingo" id="instant-purchase-rnd-1736484604" data-bn-rel="http://www.barnesandnoble.com/buynow?ean=2940043922267&isfreesample=N&isfreetrial=N&productcode=NE" data-bn-instant-purchase="true" data-bntrack="instant-purchase" onclick="return false;" class="button slim  tertiary  buy-now" rel="nofollow" data-cm-extendedstoresubject="N1-983AA" data-cm-workid="1112958679" data-cm-ean="2940043922267">Buy Now</a>
+
+</div>
+
+                    </div>
+                
+        
+    </div>
+    
+</div>
+
+
+            </li>
+            
+     </ul></div><a name="search-controls-ab-2" class="search-controls-ab-anchor"></a>
+            
+
+            <div id="search-controls-ab-2" data-bn-widget-name="search-controls-ab" data-bntrack-pageaware="true" data-bntrack="Search Controls" class="list-controls-layout box search-controls-ab" data-bntrack-root="true"><a name="sort-controls-2" class="sort-controls-anchor"></a>
+            
+
+            <div id="sort-controls-2" data-bn-widget-name="sort-controls" class="sort-controls box sort-controls"><form name="null" action="http://www.barnesandnoble.com/s/" >
+
+        <span class="option-name">Sort by:</span>
+        <span class="option-selector">
+            
+    <div class="styledinput styledselect-display ">
+        <select name="sort" id="sort" data-bntrack="Sort By"
+    class="sort">
+            
+
+
+
+
+<option value="R"  data-bntrack="Top+Matches">Top Matches</option>
+
+
+
+
+
+<option value="SA"  data-bntrack="Best+Selling">Best Selling</option>
+
+
+
+
+
+<option value="PA"  data-bntrack="Price+-+Low+to+High">Price - Low to High</option>
+
+
+
+
+
+<option value="PD"  data-bntrack="Price+-+High+to+Low">Price - High to Low</option>
+
+
+
+
+
+<option value="TA"  data-bntrack="Title+-+A+to+Z">Title - A to Z</option>
+
+
+
+
+
+<option value="TD"  data-bntrack="Title+-+Z+to+A">Title - Z to A</option>
+
+
+
+
+
+<option value="DD"  data-bntrack="Newest+to+Oldest">Newest to Oldest</option>
+
+
+
+
+
+<option value="DA"  data-bntrack="Oldest+to+Newest">Oldest to Newest</option>
+
+        </select>
+    </div>
+    <!--[if IE 7]><script>BN_YUI.use('node', 'styled-inputs', function(Y) { Y.one('#sort').plug(Y.StyledInputs.Plugin.Select); });</script><![endif]-->
+
+        </span>
+        <span class="option-name">View:</span>
+        <span class="option-selector">
+            
+    <div class="styledinput styledselect-display ">
+        <select name="size" id="size" data-bntrack="View"
+    class="size">
+            
+
+
+
+
+<option value="30"  data-bntrack="30">30</option>
+
+
+
+
+
+<option value="90"  data-bntrack="90">90</option>
+
+        </select>
+    </div>
+    <!--[if IE 7]><script>BN_YUI.use('node', 'styled-inputs', function(Y) { Y.one('#size').plug(Y.StyledInputs.Plugin.Select); });</script><![endif]-->
+
+        </span>
+        <span class="option-selector hide-if-js">
+            <input type="submit" value="Go" />
+        </span>
+       <input type="hidden" name="store" value="ebook" /></form></div><a name="pagination-controls-2" class="pagination-controls-anchor"></a>
+            
+
+            <div id="pagination-controls-2" data-bn-widget-name="pagination-controls" data-bntrack="Paginate" class="pagination-controls box pagination-controls"><div class="control previous">
+            
+                    <span class="control-disabled"></span>
+                
+        </div>
+        <div class="control">
+            <span class="page-count">Page 1 of 103474</span>
+        </div>
+        <div class="control next">
+            <a href="http://www.barnesandnoble.com/s/"  title="Next" data-bn-rel="http://www.barnesandnoble.com/s/?startat=31&store=ebook" data-bntrack="Next" class="control-a" data-startat="31">Next
+                        </a>
+        </div></div><a name="search-view-toggle-controls-2" class="search-view-toggle-controls-anchor"></a>
+            
+
+            <div id="search-view-toggle-controls-2" data-bn-widget-name="search-view-toggle-controls" data-bntrack="View As" class="box search-view-toggle-controls"><!-- TestMarker_searchResultsView_grid -->
+    
+
+    <span class="option-name">View as:</span>
+    
+            <span class="grid toggle">Grid</span>
+        <a href="#"  title="list" data-bn-rel="http://www.barnesandnoble.com/s/?store=ebook&view=list" data-bntrack="List" class="list toggle" rel="nofollow">
+                List
+            </a></div></div><a name="category-list-1" class="category-list-anchor"></a>
+            
+
+            <div id="category-list-1" data-bn-widget-name="category-list" class="category-list"><p>Related categories</p>
+            
+
+        <ul class="box">
+            
+                <li class="left">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=914093" >Fiction</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=2466620" >2012 Booksellers' Guide</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=914097" >Fiction Subjects</a>
+                   </li>
+            
+                <li class="left">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=2616120" >2013 Booksellers' Guide</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=924480" >Romance</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=2348882" >Hot Books: Bestselling and in the News</a>
+                   </li>
+            
+                <li class="left">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=914099" >Teen Fiction</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=2268842" >Booksellers' Picks</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=924474" >Mystery & Crime</a>
+                   </li>
+            
+                <li class="left">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=924482" >Romantic Fiction Themes</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=244" >Thrillers</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=925897" >Science Fiction & Fantasy</a>
+                   </li>
+            
+                <li class="left">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=2606620" >Barnes & Noble's Best Books of 2012</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=914575" >Presidents of the United States - Biography</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=925849" >Children - Fiction & Literature</a>
+                   </li>
+            
+                <li class="left">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=924481" >Contemporary Romance</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=914449" >Entertainment</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=1377661" >Executive Branch</a>
+                   </li>
+            
+                <li class="left">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=925905" >Fantasy Fiction</a>
+                   </li>
+            
+                <li class="">
+                    <a href="http://www.barnesandnoble.com/s/?category_id=2321832" >Games - NOOKapps</a>
+                   </li>
+            
+        </ul></div><a name="google-text-ad-2" class="google-text-ad-anchor"></a>
+            
+
+            <div id="google-text-ad-2" data-bn-widget-name="google-text-ad" class="google-text-ad"></div>
+    </section>
+</div>
+
+</div>
+<footer class="box">
+    <a name="footer-1" class="footer-anchor"></a>
+            
+
+            <div id="footer-1" data-bn-widget-name="footer" data-bntrack-pageaware="true" data-bntrack="Footer" class="footer"><!-- PID:37877 Start page:1 Date built:7/18/2012 3:04:58 PM --><DIV id=bn-footer>
+
+<DIV id=bnf-pods>
+
+<style type="text/css">
+a.bnf-locator {
+	display: block;
+	margin: 20px auto 0 auto;
+	width: 127px;
+	height: 36px;
+	background: transparent url(http://img1.imagesbn.com/pimages/resources/gateway/2011/footer/btn_store-locator.png) no-repeat scroll 0 0;
+	text-indent: -10000px;
+}
+
+a.bnf-locator:hover {
+	background-position: 0 -36px;
+}
+#bnf-pods a.bnf-pod-2-learnmore { font-size: 12px; color: #3169a8; }
+#bnf-pods a.bnf-pod-2-learnmore + img { margin-left: 3px; }
+</style>
+
+<DIV id=bnf-pod-1>
+<P class=bnf-pod-header1>Find a B&amp;N Store</P>
+<P class=bnf-pod-header2>Store Hours, Directions, Events &amp; More</P>
+<a class="bnf-locator" href="http://store-locator.barnesandnoble.com/">Store Locator</a>
+</DIV>
+
+<DIV id=bnf-pod-div></DIV>
+
+<DIV id=bnf-pod-2>
+<P class=bnf-pod-header1>Read What You Love.</P>
+<P class=bnf-pod-header2>Anywhere You Like. <a class="bnf-pod-2-learnmore" href="http://www.barnesandnoble.com/u/free-nook-apps/379002321">Learn More</a><img src="http://img1.imagesbn.com/pImages/resources/gateway/2011/dev/blue_carot_link.png"></P>
+<DIV id=bnf-pod-2a><A href="http://www.barnesandnoble.com/u/nook-for-iPad/379002216">NOOK for iPad&trade;</A><BR><A href="http://www.barnesandnoble.com/u/nook-for-iphone-ipod-touch/379002320">NOOK for iPhone&reg;</A></DIV>
+<DIV id=bnf-pod-2b><A href="http://www.barnesandnoble.com/u/nook-for-android/379002287">NOOK for Android&trade;</A><BR><A href="http://www.barnesandnoble.com/u/nook-for-pc/379002322">NOOK for PC&trade;</A></DIV>
+<DIV id=bnf-pod-2c><A href="http://www.barnesandnoble.com/u/nook-for-mac/379002740">NOOK for Mac&trade;</A><BR><A href="http://www.barnesandnoble.com/u/nook-for-web/379003594">NOOK&reg; for Web</A></DIV>
+</DIV>
+
+<DIV id=bnf-pod-div></DIV>
+
+<div id="bnf-pod-3">
+<p class="bnf-pod-header1">Keep Up with BN's Buzz.</p>
+<a class="pod3-fbbn" title="BN Buzz on Facebook" href="http://www.facebook.com/barnesandnoble" target="_blank"></a>
+<a class="pod3-fbnook" title="NOOK Buzz on Facebook" href="http://www.facebook.com/nook" target="_blank"></a>
+<a class="pod3-twbn" title="BN Buzz on Twitter" href="http://twitter.com/bnbuzz" target="_blank"></a>
+<a class="pod3-twnook" title="NOOK Buzz on Twitter" href="http://twitter.com/nookbn" target="_blank"></a>
+</div>
+
+</DIV>
+
+<HR class=bnf-horz>
+
+<DIV id=bnf-links>
+<DIV class=col-1>
+<DIV class=innerpadding>
+<H5>B&amp;N Services</H5><A href="http://www.barnesandnoble.com/help/cds2.asp?PID=8184">About B&amp;N</A> <A href="http://www.barnesandnobleinc.com/for_investors/for_investors.html" target=_blank>Investor Relations</A> <A href="http://www.barnesandnobleinc.com/">Barnes &amp; Noble, Inc.</A> <A href="http://www.barnesandnoble.com/careers">Careers at BN.com</A> </DIV></DIV>
+<DIV class=col-2>
+<DIV class=innerpadding><a href="http://libertyadvertising.com/Sites/BarnesandNoble/" target="_blank">Advertise</a> <A href="http://www.barnesandnoble.com/help/cds2.asp?PID=8148">Publisher &amp; Author Guidelines</A> <A href="http://www.barnesandnoble.com/u/Membership-Join/379002828">B&amp;N Membership</A> <A href="http://www.barnesandnoble.com/search.asp">Advanced Search</A></DIV></DIV>
+<DIV class=col-3>
+<DIV class=innerpadding><A href="http://www.barnesandnoble.com/membership/mc.asp?jp=90">B&amp;N MasterCard</A> <A href="http://www.barnesandnoble.com/offers/offers_cds2.asp?PID=3315">Bulk Order Discounts</A> <A href="http://www.barnesandnoble.com/bookfairs/index.asp">B&amp;N Bookfairs</A> <A href="http://my.barnesandnoble.com/communityportal/userprofile.aspx">My B&amp;N</A> </DIV></DIV>
+<DIV class=col-4>
+<DIV class=innerpadding>
+<H5>Shipping &amp; Delivery</H5><A href="http://www.barnesandnoble.com/help/bn_shipping_flat.asp?PID=33637">About Free Shipping</A> <A href="http://www.barnesandnoble.com/help/cds2.asp?PID=8112">About Shipping</A> <A href="http://www.barnesandnoble.com/help/po_shipping_options.asp">Shipping Rates</A> <A href="http://www.barnesandnoble.com/returns/index.asp">Store Returns</A> </DIV></DIV>
+<DIV class=col-5>
+<DIV class=innerpadding>
+<H5>Quick Help</H5><A href="http://www.barnesandnoble.com/help/help.asp">Customer Service</A> <A href="http://www.barnesandnoble.com/help/cds2.asp?PID=8139">Order Status</A> <A href="http://www.barnesandnoble.com/returns/index.asp">Easy Returns</A> <a href="http://www.barnesandnoble.com/u/product-recalls/379003558">Product Recalls</a></DIV></DIV>
+<DIV class=col-6>
+<DIV class=innerpadding><A href="http://www.barnesandnoble.com/help/help.asp">All Help Topics</A> <A href="http://www.barnesandnoble.com/sitemap/index.asp">Sitemap</A> <a href="http://www.barnesandnoble.com/u/BN-Accessibility-Statement/379003519">Accessibility</a></DIV></DIV>
+</DIV>
+
+<DIV id=bnf-footlight-cnt1>
+<DIV id=bnf-footlight-cnt2>
+<DIV id=bnf-footlight-lt><A href="http://www.barnesandnoble.com/include/terms_of_use.asp">Terms of Use</A>, <A href="http://www.barnesandnoble.com/include/copyright.asp">Copyright</A>, and <A href="http://www.barnesandnoble.com/help/cds2.asp?PID=25556">Privacy Policy</A></DIV>
+<DIV id=bnf-footlight-ctr></DIV>
+<DIV id=bnf-footlight-rt>&copy; 1997-2012 Barnesandnoble.com llc</DIV>
+
+</DIV></DIV>
+
+</DIV><!-- end #bn-footer --></div>
+</footer>
+
+<div>
+    
+</div>
+
+<div class="page-debug">
+    
+</div>
+            <script src="http://img3.imagesbn.com/resources?cb=1.42.17&amp;type=JS&amp;rz=WlYBAHMAfB8mcj0vanMtbWluL2NvcmUvdXRpbGl0eS9kb21yZWFkeQIuanMgIh9odHRwOi8vd3d3Lmdvb2dsZS5jb20vYWRzZW5zZS9zZQNhcmNoQA7gBC0DbGlicyAnB3JlbWV0cmljQAsEbS9lbHUgawVhdGUuanM" type="text/javascript"></script>
+        <script type="text/javascript">BN_YUI.use('event', 'event-hover', 'bn-overlay', 'performance-metrics', 'analytics-comscore', 'analytics-coremetrics', 'bag-updater', 'get', 'shared-rotator', 'account-signin-actions', 'account-signin', 'analytics-internaltracking', 'enhanced-purchase-options', 'ajax-updater', 'node-base', 'node-event-simulate', 'analytics-visualization', 'event-base', 'util-bot', 'imageloader', 'analytics', 'node', 'styled-inputs', 'base-base', 'event-custom', 'search-filter', function(Y) {ex(function() {
+Y.after('domready', function() {
+var parameters, last, lastPreClickedNode;
+Y.one('html').removeAttribute('onclick');
+if (window.numPreClicks) {
+lastPreClickedNode = Y.one(window.lastPreClick);
+if (lastPreClickedNode) {
+last = lastPreClickedNode.toString();
+}
+parameters = {numPreClicks:window.numPreClicks,lastPreClick:last};
+Y.Analytics.Tracker.fire(Y.Analytics.Event.ASYNC, { pageObj:{parameters:parameters} });
+}
+});
+});
+ex(function() {
+var signinActions = new Y.Account.SignInActions();
+});
+ex(function() {
+var n = Y.one('#account-welcome-1');
+if (n) {
+var n_link = n.one('a');
+if (n_link) {
+n_link.on('click',function(e){
+Y.Account.signInUser({
+popupUrl : "https://www.barnesandnoble.com/signin/popup",
+triggerStatusChange: true
+});
+e.preventDefault();
+});
+}
+n.plug(Y.Ajax.UpdaterPlugin, { autoUpdateOn:'signin' });
+}
+});
+ex(function() {
+Y.on('domready', function() {
+Y.one('#user-links-1 .skip-to-main a').on('click', function(e) {
+var target = Y.one('#mainContent');
+if (target) {
+target.focus();
+}
+});
+});
+});
+ex(function() {
+Y.on('domready', function() {
+new Y.Shared.Rotator({
+boundingBox: '#upsell-promo-1',
+rotationInterval: 6,
+rotationTimeout: 1,
+cssInitClass: 'upsell-promo-init',
+transitionDuration: 0.25
+});
+});
+});
+ex(function() {
+Y.one('#shopping-cart-content-1').plug(Y.Ajax.UpdaterPluginExtensions.Loader);
+});
+ex(function() {
+Y.on('domready',function(){
+Y.one('#shopping-cart-content-1').plug(Y.Ajax.UpdaterPlugin,{autoUpdateOn:'bag'});
+});
+});
+ex(function() {
+Y.Analytics.Tracker.on(Y.Analytics.Event.LOAD, function(obj){
+Y.Analytics.Tracker.fire(Y.Analytics.Event.ASYNC, {
+pageObj : {
+"parameters" : {
+"cartMessage" : ""
+}
+}
+});
+});
+Y.on('domready',function(){
+Y.one('#shopping-cart-1').plug(Y.Ajax.UpdaterPlugin,{autoUpdateOn:['bag','signin']});
+});
+});
+ex(function() {
+var navbarNode = Y.one('#horiz-navigation-1');
+navbarNode.once('mouseover', function() {
+navbarNode.plug(Y.Ajax.UpdaterPlugin).ajax.update('/navigation/flyouts');
+});
+/* Coremetrics Element View Tags */
+Y.on('cminit:complete', function(){
+var timerID = null;
+navbarNode.delegate('hover', function(e){
+clearTimeout(timerID);
+timerID = setTimeout(function() {
+var trackSP = e.currentTarget.getAttribute('data-bntrack');
+cmCreateManualImpressionTag('Global_Nav', 'Global_Nav-_-' + trackSP + '-_-HOVER');
+}, 750);
+}, '[data-bntrack-event=view]');
+navbarNode.delegate('mouseout', function(e){
+clearTimeout(timerID);
+}, '[data-bntrack-event=view]');
+});
+});
+ex(function() {
+new Y.Search.Filter({
+boundingBox: Y.one('#search-filter-1')
+});
+});
+googleAdArgs = [{
+'pubId' : 'barnesandnoble_js',
+'query' : 'barnes and noble',
+'adPage' : '1',
+'linkTarget' : '_blank',
+'hl' : 'en'
+}];
+ex(function() {
+Y.after('domready', function() {
+var timeout = 0;
+var timer = 200;
+var googleAdTimer = Y.later(timer, window, function() {
+if (typeof google !== 'undefined' || timeout >= 30000) {
+googleAdTimer.cancel();
+google.ads.search.Ads.apply(window, googleAdArgs);
+}
+timeout = timeout + timer;
+}, null, true);
+});
+});
+googleAdArgs.push({
+'container' : 'google-text-ad-1',
+'number' : '3',
+'width' : 'auto',
+'colorTitleLink' : '#3169A8',
+'fontSizeTitle' : '14px',
+'colorText': '#000000',
+'fontSizeDescription' : '12px',
+'colorDomainLink' : '#1f8532',
+'fontSizeDomainLink' : '12px'
+});
+ex(function() {
+Y.after('domready', function() {
+var ts = Y.Lang.now(),
+src = 'http://ad.doubleclick.net\/adi\/5480.lia.barnesandnoble\/search;member=F;lo=mid;s=bn;sz=160x600;' + 'ord=' + (ts + Math.floor(Math.random() * ts)) +'?';
+Y.Node.create('<iframe />').setAttrs({
+src: src,
+width: '160',
+height: '600',
+frameBorder: '0',
+marginwidth: '0',
+marginheight: '0',
+hspace: '0',
+vspace: '0',
+scrolling: 'no',
+bordercolor: '#000000'
+}).appendTo(Y.one('#adsense-wide-skyscraper-1'));
+});
+});
+ex(function() {
+Y.on('domready', function() {
+var form = Y.one('#sort-controls-1 form');
+form.plug(Y.StyledInputs.Plugin.Form);
+form.all('select').on('change', function() {
+form.submit();
+});
+});
+});
+ex(function() {
+Y.use('cookie', function() {
+Y.all("#search-view-toggle-controls-1 a.toggle").on("click", function() {
+var option = this.getAttribute("title");
+Y.Cookie.set("view", option, {
+path: "/"
+});
+});
+});
+});
+ex(function() {
+BN_YUI.productImageGroup = new Y.ImgLoadGroup({
+foldDistance: 100
+});
+});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1590972438', srcUrl: 'http://img1.imagesbn.com/p/9780345527752_p0_v1_s114x166.JPG', width: '110', height: '166'});
+ex(function() {
+var overlay = new Y.Shared.BNOverlay({
+srcNode: '#bn-overlay-instant-purchase-overlay'
+});
+Y.publish('bn-overlay-instant-purchase-overlay:init', {
+broadcast: 2,
+fireOnce: true
+});
+Y.fire('bn-overlay-instant-purchase-overlay:init', { overlay : overlay});
+});
+ex(function() {
+Y.on('domready',function(){
+var o = Y.Shared.BNOverlay.getById('instant-purchase-overlay'),
+n_response = Y.one('#instant-purchase-layout-1'),
+node;
+n_response.plug(Y.Ajax.UpdaterPlugin);
+Y.one('body').delegate('click',function(e){
+e.preventDefault();
+node = e.currentTarget;
+if(!node.hasClass('disabled')){
+node.addClass('disabled');
+Y.Account.signInUser().once(Y.Account.SIGNED_IN, function() {
+n_response.ajax.update(node.getAttribute('href'), {
+widget: 'instant-purchase-layout-1',
+js: 'false'
+});
+});
+setTimeout(function(){
+node.removeClass('disabled');
+}, 2000);
+}
+}, 'a[data-bn-instant-purchase="true"]');
+n_response.ajax.on('ajax:updated', function() {
+o.fit();
+o.show();
+});
+Y.all('a[data-bn-instant-purchase="true"]').each(function(n) {
+if (n.getDOMNode() == document.activeElement) {
+n.simulate('click');
+}
+n.removeAttribute('onclick');
+});
+n_response.ajax.on('ajax:end',function() {
+if (node) {
+node.removeClass('disabled');
+}
+});
+});
+});
+ex(function() {
+function parentContainerTest(el) {
+return el.hasClass('display-tile-item');
+}
+Y.on('domready', function() {
+Y.all('.more-options').each(function(moreOptionsNode) {
+var contentContainer = moreOptionsNode.next(),
+parentContainer = moreOptionsNode.ancestor(parentContainerTest);
+new Y.Checkout.EnhancedDisplayOptions({
+trigger: moreOptionsNode,
+contentContainer: contentContainer,
+parentContainer: parentContainer
+});
+});
+});
+});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1413805866', srcUrl: 'http://img1.imagesbn.com/p/9780316210690_p0_v3_s114x166.JPG', width: '107', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1309950019', srcUrl: 'http://img1.imagesbn.com/p/9781455515530_p0_v4_s114x166.JPG', width: '107', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-837680755', srcUrl: 'http://img1.imagesbn.com/p/9780385536882_p0_v1_s114x166.JPG', width: '109', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1471712748', srcUrl: 'http://img2.imagesbn.com/p/9781101612231_p0_v1_s114x166.JPG', width: '113', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-869216036', srcUrl: 'http://img2.imagesbn.com/p/9781613124505_p0_v2_s114x166.JPG', width: '113', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-575810186', srcUrl: 'http://img2.imagesbn.com/p/9780446573047_p0_v3_s114x166.JPG', width: '107', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1920501200', srcUrl: 'http://img2.imagesbn.com/p/9780316069441_p0_v5_s114x166.JPG', width: '106', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1139162139', srcUrl: 'http://img2.imagesbn.com/p/9781101604915_p0_v2_s114x166.JPG', width: '111', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1177107603', srcUrl: 'http://img1.imagesbn.com/p/9780316199896_p0_v1_s114x166.JPG', width: '107', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-713908704', srcUrl: 'http://img1.imagesbn.com/p/9780316228558_p0_v1_s114x166.JPG', width: '107', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-361097551', srcUrl: 'http://img1.imagesbn.com/p/9781101607954_p0_v2_s114x166.JPG', width: '109', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1125429613', srcUrl: 'http://img1.imagesbn.com/p/9781101569702_p0_v2_s114x166.JPG', width: '103', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-105053712', srcUrl: 'http://img1.imagesbn.com/p/9780345535924_p0_v1_s114x166.JPG', width: '108', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-615527136', srcUrl: 'http://img1.imagesbn.com/p/9781101614648_p0_v3_s114x166.JPG', width: '102', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-485731729', srcUrl: 'http://img1.imagesbn.com/p/9780062190062_p0_v2_s114x166.JPG', width: '110', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1250143790', srcUrl: 'http://img2.imagesbn.com/p/2940012239457_p0_v1_s114x166.JPG', width: '111', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1424709080', srcUrl: 'http://img1.imagesbn.com/p/9781101604786_p0_v2_s114x166.JPG', width: '111', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-302103449', srcUrl: 'http://img2.imagesbn.com/p/9780547951973_p0_v1_s114x166.JPG', width: '111', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-2124395260', srcUrl: 'http://img2.imagesbn.com/p/9781250036551_p0_v2_s114x166.JPG', width: '109', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-938355006', srcUrl: 'http://img2.imagesbn.com/p/9780062114457_p0_v1_s114x166.JPG', width: '110', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1549548551', srcUrl: 'http://img2.imagesbn.com/p/9780805096675_p0_v1_s114x166.JPG', width: '110', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1548740554', srcUrl: 'http://img1.imagesbn.com/p/9780446574242_p0_v4_s114x166.JPG', width: '103', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-511388662', srcUrl: 'http://img1.imagesbn.com/p/9780307588388_p0_v1_s114x166.JPG', width: '110', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-2028982349', srcUrl: 'http://img1.imagesbn.com/p/2940000982860_p0_v3_s114x166.JPG', width: '114', height: '155'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-855515540', srcUrl: 'http://img2.imagesbn.com/p/9781612130293_p0_v1_s114x166.JPG', width: '108', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-405395364', srcUrl: 'http://img1.imagesbn.com/p/2940012365880_p0_v1_s114x166.JPG', width: '111', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1129753610', srcUrl: 'http://img1.imagesbn.com/p/9780345527592_p0_v1_s114x166.JPG', width: '109', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-1402488791', srcUrl: 'http://img2.imagesbn.com/p/9781612130613_p0_v1_s114x166.JPG', width: '108', height: '166'});
+BN_YUI.productImageGroup.registerImage({domId: 'rnd-834403785', srcUrl: 'http://img2.imagesbn.com/p/2940043922267_p0_v6_s114x166.PNG', width: '114', height: '114'});
+ex(function() {
+Y.on('contentready', function() {
+Y.fire('results:ready');
+}, '#search-results-1');
+});
+ex(function() {
+Y.on('domready', function() {
+var form = Y.one('#sort-controls-2 form');
+form.plug(Y.StyledInputs.Plugin.Form);
+form.all('select').on('change', function() {
+form.submit();
+});
+});
+});
+ex(function() {
+Y.use('cookie', function() {
+Y.all("#search-view-toggle-controls-2 a.toggle").on("click", function() {
+var option = this.getAttribute("title");
+Y.Cookie.set("view", option, {
+path: "/"
+});
+});
+});
+});
+googleAdArgs.push({
+'container' : 'google-text-ad-2',
+'number' : '3',
+'width' : 'auto',
+'colorTitleLink' : '#3169A8',
+'fontSizeTitle' : '14px',
+'colorText': '#000000',
+'fontSizeDescription' : '12px',
+'colorDomainLink' : '#1f8532',
+'fontSizeDomainLink' : '12px'
+});
+var _gaq = _gaq || [];
+ex(function() {
+Y.on("domready", function(){
+_gaq.push(['_setAccount', 'UA-11110821-1']);
+_gaq.push(['_setDomainName', '.barnesandnoble.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_trackPageview','\/s\/?store=ebook&WRD=']);
+_gaq.push(['_trackPageLoadTime']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+});
+});
+ex(function() {
+var inheritedPgModels = [ {
+"requestId" : "1357417459",
+"lastRequestId" : "",
+"userId" : "Mx1JKOnRL6",
+"ipAddress" : "122.164.202.108",
+"pageType" : "search.results.productsearch",
+"url" : "http://www.barnesandnoble.com/s/?store=ebook",
+"siteId" : "0001",
+"appVersion" : "1.42.17",
+"environment" : "prodwb",
+"signedIn" : null,
+"isRecognized" : "N",
+"parameters" : {},
+"serverTime" : "1357417459",
+"isMember" : false,
+"isFromBorders" : null,
+"referrer" : "",
+"userAgent" : "Python-urllib/2.7",
+"testCell" : "",
+"testName" : "",
+"fliteTestName" : ""
+},{
+"pageName": "Search Success",
+"parameters" : {
+"numOfResults" : 3104196,
+"searchTerm" : null,
+"searchOption" : "EBOOK",
+"paginationPage" : 1,
+"relatedCategoriesShown" : "true",
+"numOfRelatedCategories" : 87,
+"ABTestId" : 127
+}
+} ];
+var pageObj = Y.merge.apply(null, inheritedPgModels);
+Y.Analytics.Tracker.ECommerceBootstrap(pageObj, {
+baseUrl: 'http://local.analyticsbn.com:8888',
+dataCollectionDomain : 'data.coremetrics.com',
+cmClientId : '90231135',
+csClientId : '6035001',
+prettyFormat : true
+});
+/* Performance Metrics */
+if (window.performance) {
+new Y.Performance.Metrics({
+percentEnabled: 25,
+render: true,
+mixinValues : {
+requestId : '1357417459',
+lastRequestId : '',
+pageType : 'search.results.productsearch',
+ipAddress : '122.164.202.108',
+environment : 'prodwb',
+pageName : pageObj.pageName
+}
+});
+};
+});
+ex(function() {
+Y.util.bot.checkIfSuspectedBot();
+});})</script>
+    </body>
+</html>
+
