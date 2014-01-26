@@ -27,10 +27,26 @@ tree   = etree.parse(StringIO(response), parser)
 #r = tree.xpath("//%x:div[@class='line all_search_results']/x:div[1]/x:div[2]//x:a[@title]")
 #r = tree.xpath("//a[contains(@class,'fk-display-block')]/@title")
 #p = tree.xpath("//div[@class='line all_search_results']/div[1]/div[2]//a[@title]")
-titles =  tree.xpath("//a[contains(@class,'fk-display-block')]/@title")
+#parameterFile =  open('XpathParameters.xml','r')
+#parametersXpath = parameterFile.read()
+
+#print parametersXpath
+parametersXmlDoc = etree.parse("XpathParameters.xml")
+titleXpath = parametersXmlDoc.xpath("//Name")[0].text
+titles =  tree.xpath(titleXpath)
+
+priceXPath =  parametersXmlDoc.xpath("//Price")[0].text
+prices = tree.xpath(priceXPath)
+
+for price in prices:
+	print price
+#titles =  tree.xpath("//a[contains(@class,'fk-display-block')]/@title")
 
 for title in titles:
 	print title
+
+for title , price in zip(titles,prices):
+	print title + "    " + price
 
 #for node in p:
 #	print node.get("title")

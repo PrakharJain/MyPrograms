@@ -1,0 +1,4 @@
+<Parameters>
+<Price>//div[contains(@id,'products')]//div[contains(@class,'product-unit unit-4')]//div[contains(@class,'pu-price')]//span[contains(@class,'fk-font-17 fk-bold')]/text()</Price>
+<Name>//a[contains(@class,'fk-display-block')]/@title</Name>
+</Parameters>
