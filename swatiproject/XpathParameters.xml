@@ -1,4 +1,13 @@
+
 <Parameters>
+<Category type="Mobiles">
 <Price>//div[contains(@id,'products')]//div[contains(@class,'product-unit unit-4')]//div[contains(@class,'pu-price')]//span[contains(@class,'fk-font-17 fk-bold')]/text()</Price>
 <Name>//a[contains(@class,'fk-display-block')]/@title</Name>
+<RootUrl>http://www.flipkart.com/search?q=</RootUrl>
+</Category>
+<Category type="Books">
+<Name>//div[contains(@id,'products')]//div[contains(@class,'list-unit')]//div[@class='lu-title-wrapper']//a[@class='lu-title']/text()</Name>
+<Price>//div[contains(@id,'products')]//div[contains(@class,'list-unit')]//div[@class='pu-price']/div/text()</Price>
+<RootUrl>http://www.flipkart.com/search?q=</RootUrl>
+</Category>
 </Parameters>

@@ -8,53 +8,43 @@ import urllib2
 from lxml import etree
 from StringIO import StringIO
 
-#import xml.etree.ElementTree as ElementTree
-#response =  urllib2.urlopen("http://www.barnesandnoble.com/s/?store=ebook").read().decode('latin-1')
-#print response
-#e=ElementTree.XML(response);
-#tree = etree.parse(response);
-#response =  urllib2.urlopen("http://www.flipkart.com/search/a/all?query=shantaram").read()
-response =  urllib2.urlopen("http://www.flipkart.com/search?q=nexus4&as=off&as-show=on&otracker=start").read()
-#print response
+
+parametersXmlDoc = etree.parse("XpathParameters.xml")
+# //Category[@type=Mobiles]//Name
+categoryXpathPrefix="//Category[@type='";
+categoryXpathPostfix="']//";
+category = raw_input("Enter Category String: ")
+#category = "Mobiles"
+categoryXpath = categoryXpathPrefix + category + categoryXpathPostfix
+nameXPath = categoryXpath + "Name"
+print nameXPath
+titleXpath = parametersXmlDoc.xpath(categoryXpath + "Name")[0].text
+#titleXpath = parametersXmlDoc.xpath("//Category[@type='Mobiles']//Name")[0].text
+#titleXpath = parametersXmlDoc.xpath("//Name")[0].text
+priceXPath = parametersXmlDoc.xpath(categoryXpath+"Price")[0].text
+#priceXPath = parametersXmlDoc.xpath("//Category[@type='Mobiles']//Price")[0].text
+#priceXPath =  parametersXmlDoc.xpath("//Price")[0].text
+rootUrl = parametersXmlDoc.xpath(categoryXpath+"RootUrl")[0].text
+#rootUrl = parametersXmlDoc.xpath("//Category[@type='Mobiles']//RootUrl")[0].text
+#rootUrl = parametersXmlDoc.xpath("//RootUrl")[0].text
+
+print rootUrl
+searchItem=raw_input("Enter Search String: ")
+
+response =  urllib2.urlopen(rootUrl+searchItem).read()
+#response =  urllib2.urlopen("http://www.flipkart.com/search?q=nexus4&as=off&as-show=on&otracker=start").read()
 newresponse = response.decode('utf-8')
-#page = parse(newresponse)
-#tree = etree.parse(StringIO(newresponse))
-#tree = etree.fromstring(response)
 parser = etree.HTMLParser()
 tree   = etree.parse(StringIO(response), parser)
 
-#x = "http://www.w3.org/1999/xhtml"
-#r = tree.xpath("//%x:div[@class='line all_search_results']/x:div[1]/x:div[2]//x:a[@title]")
-#r = tree.xpath("//a[contains(@class,'fk-display-block')]/@title")
-#p = tree.xpath("//div[@class='line all_search_results']/div[1]/div[2]//a[@title]")
-#parameterFile =  open('XpathParameters.xml','r')
-#parametersXpath = parameterFile.read()
-
-#print parametersXpath
-parametersXmlDoc = etree.parse("XpathParameters.xml")
-titleXpath = parametersXmlDoc.xpath("//Name")[0].text
+prices = tree.xpath(priceXPath)
 titles =  tree.xpath(titleXpath)
 
-priceXPath =  parametersXmlDoc.xpath("//Price")[0].text
-prices = tree.xpath(priceXPath)
+#for price in prices:
+#	print price
 
-for price in prices:
-	print price
-#titles =  tree.xpath("//a[contains(@class,'fk-display-block')]/@title")
-
-for title in titles:
-	print title
+#for title in titles:
+#	print title
 
 for title , price in zip(titles,prices):
 	print title + "    " + price
-
-#for node in p:
-#	print node.get("title")
-
-#for child in r:
-#	print child.tag
-
-#result = etree.tostring(tree.getroot(),pretty_print=True, method="html")
-
-#print (r)
-#print(result)
