@@ -1,0 +1,24 @@
+<Parameters>
+	<Category type="Mobiles">
+		<Price>
+			<xpath>//div[contains(@id,'products')]//div[contains(@class,'product-unit unit-4')]//div[contains(@class,'pu-price')]//span[contains(@class,'fk-font-17 fk-bold')]/text()</xpath>
+			<regex></regex>
+		</Price>
+		<Name>
+			<xpath>//a[contains(@class,'fk-display-block')]/@title</xpath>
+			<regex></regex>
+		</Name>
+		<RootUrl>http://www.flipkart.com/search?q=</RootUrl>
+	</Category>
+	<Category type="Books">
+		<Name>
+			<xpath>//div[contains(@id,'products')]//div[contains(@class,'list-unit')]//div[@class='lu-title-wrapper']//a[@class='lu-title']/text()</xpath>
+			<regex></regex>
+		</Name>
+		<Price>
+			<xpath>//div[contains(@id,'products')]//div[contains(@class,'list-unit')]//div[@class='pu-price']/div/text()</xpath>
+			<regex></regex>
+		</Price>
+		<RootUrl>http://www.flipkart.com/books/pr?sid=bks&amp;q=</RootUrl>
+	</Category>
+</Parameters>
