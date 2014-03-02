@@ -18,10 +18,10 @@ category = raw_input("Enter Category String: ")
 categoryXpath = categoryXpathPrefix + category + categoryXpathPostfix
 nameXPath = categoryXpath + "Name"
 print nameXPath
-titleXpath = parametersXmlDoc.xpath(categoryXpath + "Name")[0].text
+titleXpath = parametersXmlDoc.xpath(categoryXpath + "Name//xpath")[0].text
 #titleXpath = parametersXmlDoc.xpath("//Category[@type='Mobiles']//Name")[0].text
 #titleXpath = parametersXmlDoc.xpath("//Name")[0].text
-priceXPath = parametersXmlDoc.xpath(categoryXpath+"Price")[0].text
+priceXPath = parametersXmlDoc.xpath(categoryXpath+"Price//xpath")[0].text
 #priceXPath = parametersXmlDoc.xpath("//Category[@type='Mobiles']//Price")[0].text
 #priceXPath =  parametersXmlDoc.xpath("//Price")[0].text
 rootUrl = parametersXmlDoc.xpath(categoryXpath+"RootUrl")[0].text
